@@ -1,0 +1,1001 @@
+Student_ID,Python,Machine_Learning,SQL,Deep_Learning,NLP,DSA,Git,Cloud,Statistics,Communication,Projects,Certifications,Years_Experience,Internships,Target_Role,Job_Readiness_Score,Average_Skill_Gap,Skill_Gap_Level,Strongest_Skill,Biggest_Skill_Gap
+1,42,67,66,86,34,52,9,44,64,34,2,3,0,0,NLP Engineer,48,21.8,Medium,Deep_Learning,NLP
+2,69,34,23,89,50,57,22,42,58,29,4,2,0,0,Cloud Engineer,63,21.0,Medium,Deep_Learning,Git
+3,46,28,68,39,23,47,44,57,51,83,4,4,1,2,NLP Engineer,65,22.5,Medium,Communication,NLP
+4,72,68,75,76,72,50,41,20,80,51,4,4,1,0,Backend Developer,72,15.6,Medium,Statistics,Cloud
+5,52,33,58,52,100,31,37,65,75,100,5,0,0,0,NLP Engineer,63,14.7,Low,NLP,Machine_Learning
+6,23,87,59,48,70,49,47,84,48,5,1,2,0,1,Computer Vision Engineer,60,20.0,Medium,Machine_Learning,Communication
+7,55,54,74,31,38,66,54,63,53,49,4,0,2,0,AI/ML Engineer,67,19.7,Medium,SQL,Deep_Learning
+8,41,87,87,35,57,44,76,94,75,55,2,2,0,0,Backend Developer,67,8.9,Low,Cloud,Python
+9,60,22,31,72,16,58,78,59,41,36,8,3,2,0,AI/ML Engineer,53,26.5,Medium,Git,Machine_Learning
+10,37,72,33,38,29,73,84,65,77,35,1,3,1,1,Backend Developer,70,13.7,Low,Git,Communication
+11,86,82,46,67,100,54,55,59,69,47,5,1,2,0,Computer Vision Engineer,69,8.7,Low,NLP,Deep_Learning
+12,49,59,64,35,59,56,29,63,68,80,5,3,1,1,Data Scientist,77,18.3,Medium,Communication,Git
+13,19,100,27,83,58,58,63,12,77,43,3,2,0,0,Data Engineer,58,23.8,Medium,Machine_Learning,Cloud
+14,44,37,52,67,75,27,47,44,40,96,4,1,2,0,Data Analyst,72,12.4,Low,Communication,SQL
+15,47,36,71,69,44,7,45,58,55,72,8,0,1,1,Backend Developer,72,16.1,Medium,Communication,DSA
+16,81,61,41,50,44,41,75,63,39,76,2,4,2,1,AI/ML Engineer,73,17.0,Medium,Python,Deep_Learning
+17,59,80,73,29,35,73,70,5,5,53,1,4,0,0,Cloud Engineer,58,18.8,Medium,Machine_Learning,Cloud
+18,55,32,27,82,73,69,69,55,34,57,2,0,1,1,Backend Developer,61,14.7,Low,Deep_Learning,SQL
+19,56,56,22,46,75,50,56,28,65,21,4,2,3,1,Data Engineer,67,23.6,Medium,NLP,SQL
+20,28,48,55,39,54,84,73,66,57,22,2,1,3,2,Computer Vision Engineer,69,18.2,Medium,DSA,Deep_Learning
+21,74,30,39,33,88,39,52,41,48,38,2,1,0,0,Computer Vision Engineer,51,23.1,Medium,NLP,Deep_Learning
+22,54,77,42,34,66,25,97,82,44,16,4,0,5,2,AI/ML Engineer,74,22.8,Medium,Git,Communication
+23,93,60,59,74,76,74,24,40,40,37,3,1,0,0,AI/ML Engineer,65,17.6,Medium,Python,Git
+24,53,59,82,79,59,32,49,89,75,45,2,2,0,0,Data Scientist,62,14.3,Low,Cloud,DSA
+25,49,67,99,60,51,88,66,68,20,83,3,2,0,0,Cloud Engineer,66,9.7,Low,SQL,Statistics
+26,93,100,48,45,44,36,42,22,51,56,0,2,2,2,Cloud Engineer,58,18.5,Medium,Machine_Learning,Cloud
+27,59,56,73,57,73,37,96,61,64,37,1,2,3,0,NLP Engineer,68,12.5,Low,Git,Communication
+28,68,31,40,37,47,60,76,79,70,35,3,1,1,1,NLP Engineer,65,18.2,Medium,Cloud,Machine_Learning
+29,55,17,66,51,50,5,73,58,96,53,4,2,3,1,Data Scientist,76,24.0,Medium,Statistics,Machine_Learning
+30,61,70,17,53,27,40,56,35,46,78,4,4,0,1,Computer Vision Engineer,66,17.7,Medium,Communication,SQL
+31,43,26,59,63,67,71,67,66,42,39,4,3,2,0,AI/ML Engineer,63,19.0,Medium,DSA,Machine_Learning
+32,78,74,5,60,73,21,81,63,45,70,2,1,4,0,NLP Engineer,77,13.6,Low,Git,SQL
+33,54,97,46,61,5,71,100,34,100,59,2,3,1,1,Computer Vision Engineer,68,12.6,Low,Git,Cloud
+34,63,35,5,59,100,50,56,96,69,60,6,0,0,3,Computer Vision Engineer,69,17.2,Medium,NLP,SQL
+35,65,46,27,30,67,24,87,39,69,41,1,3,2,2,Computer Vision Engineer,63,23.3,Medium,Git,Deep_Learning
+36,57,49,49,5,54,50,71,98,81,49,3,1,0,2,Data Analyst,68,6.5,Low,Cloud,SQL
+37,100,42,80,46,17,71,60,97,20,100,1,1,1,1,Cloud Engineer,74,6.5,Low,Python,Statistics
+38,48,47,53,66,37,53,56,39,38,57,2,1,0,2,Data Scientist,58,23.6,Medium,Deep_Learning,NLP
+39,49,31,41,49,86,73,63,75,67,61,3,2,2,0,Data Analyst,75,7.9,Low,NLP,SQL
+40,66,42,64,54,80,58,58,47,54,62,1,3,2,0,Data Scientist,62,14.5,Low,NLP,Machine_Learning
+41,58,85,55,86,52,39,97,55,34,34,2,2,2,1,Data Analyst,68,9.0,Low,Git,SQL
+42,32,47,60,22,68,20,37,86,35,68,4,1,1,0,Computer Vision Engineer,52,23.9,Medium,Cloud,Deep_Learning
+43,44,100,26,24,93,39,33,100,78,41,3,5,5,3,Computer Vision Engineer,76,21.3,Medium,Machine_Learning,Deep_Learning
+44,72,74,58,65,50,81,53,44,75,23,0,2,0,0,Data Analyst,67,6.7,Low,DSA,SQL
+45,59,87,83,74,5,72,50,78,61,55,1,1,0,0,NLP Engineer,62,13.1,Low,Machine_Learning,NLP
+46,42,45,88,91,43,45,49,24,34,32,0,2,0,1,Cloud Engineer,52,22.4,Medium,Deep_Learning,Cloud
+47,68,20,74,60,52,40,44,69,52,43,5,2,0,0,Data Engineer,66,18.0,Medium,SQL,Machine_Learning
+48,55,42,70,60,20,91,96,41,46,62,1,1,2,0,Data Analyst,71,7.1,Low,Git,Python
+49,56,40,76,56,98,74,80,58,59,95,1,0,3,0,Backend Developer,77,4.7,Low,NLP,Cloud
+50,41,51,58,83,36,63,46,56,84,59,3,0,2,1,Data Engineer,70,15.1,Medium,Statistics,Git
+51,82,50,28,46,73,71,67,41,72,77,0,0,1,2,Data Scientist,72,14.7,Low,Python,SQL
+52,38,91,53,42,98,22,5,65,43,32,4,2,0,1,Data Engineer,61,27.0,Medium,NLP,Git
+53,47,91,29,28,77,75,63,48,67,95,2,0,1,0,Computer Vision Engineer,70,14.0,Low,Communication,Deep_Learning
+54,5,33,62,84,66,31,54,64,38,24,0,1,1,1,NLP Engineer,52,24.0,Medium,Deep_Learning,Python
+55,100,46,63,53,76,84,61,66,41,65,1,1,0,0,Data Analyst,69,4.1,Low,Python,SQL
+56,37,49,53,51,38,59,31,78,69,44,2,1,0,0,AI/ML Engineer,52,23.3,Medium,Cloud,Python
+57,84,68,47,100,70,100,86,66,42,54,4,1,0,0,Data Scientist,72,10.3,Low,Deep_Learning,SQL
+58,64,54,100,95,65,56,58,69,31,49,3,2,3,2,Backend Developer,74,11.3,Low,SQL,Communication
+59,46,57,91,19,85,65,35,24,40,5,2,2,3,0,Cloud Engineer,61,23.5,Medium,SQL,Communication
+60,52,68,46,73,5,81,15,47,29,25,2,1,3,0,AI/ML Engineer,58,30.0,Medium,DSA,NLP
+61,100,41,51,29,69,58,38,25,87,18,5,1,1,3,Data Scientist,63,25.1,Medium,Python,Communication
+62,45,72,53,57,9,76,63,78,5,100,0,1,0,0,Data Scientist,50,22.6,Medium,Communication,NLP
+63,46,45,38,66,74,27,54,60,59,59,3,4,3,0,NLP Engineer,68,16.1,Medium,NLP,Python
+64,76,78,49,63,88,68,63,16,34,79,3,1,3,0,AI/ML Engineer,73,14.8,Low,NLP,Cloud
+65,82,100,75,5,79,100,48,54,28,62,7,0,2,0,Data Engineer,67,16.3,Medium,Machine_Learning,Deep_Learning
+66,17,71,68,49,64,51,68,54,33,35,4,1,1,0,Data Analyst,66,11.3,Low,Machine_Learning,Python
+67,43,67,77,40,36,52,44,82,32,57,5,3,0,0,Data Analyst,81,7.4,Low,Cloud,Statistics
+68,34,97,36,61,37,100,27,67,38,47,0,2,0,0,Data Engineer,56,21.1,Medium,DSA,SQL
+69,42,59,45,39,93,76,12,10,79,43,3,2,2,0,Computer Vision Engineer,64,25.5,Medium,NLP,Cloud
+70,19,38,56,41,71,79,57,66,100,28,5,2,2,1,Backend Developer,71,15.9,Medium,Statistics,Python
+71,47,28,84,48,55,64,34,49,75,73,1,1,0,2,AI/ML Engineer,61,20.5,Medium,SQL,Machine_Learning
+72,100,30,35,39,50,57,71,35,18,100,4,1,1,1,Data Engineer,60,21.0,Medium,Python,SQL
+73,64,100,39,65,68,43,45,42,57,68,3,0,4,2,Data Analyst,78,8.0,Low,Machine_Learning,SQL
+74,76,31,48,41,51,56,67,53,66,56,1,0,1,1,Data Analyst,63,5.3,Low,Python,SQL
+75,25,19,24,61,53,21,70,87,41,15,0,1,0,0,Data Engineer,47,29.0,Medium,Cloud,SQL
+76,90,20,76,66,100,31,50,52,78,43,3,1,1,0,Data Engineer,58,18.3,Medium,NLP,Machine_Learning
+77,95,73,66,28,77,44,28,67,23,37,2,0,2,2,NLP Engineer,68,17.0,Medium,Python,Deep_Learning
+78,27,23,18,89,50,40,79,41,97,71,6,0,0,0,Data Analyst,62,15.1,Medium,Statistics,SQL
+79,41,53,80,68,5,59,60,55,41,82,2,1,1,0,Data Analyst,67,7.8,Low,Communication,Python
+80,61,22,90,48,49,86,68,65,100,40,5,2,5,0,Cloud Engineer,85,9.9,Low,Statistics,Communication
+81,5,77,43,38,60,67,48,55,72,47,2,3,0,0,Data Analyst,72,11.7,Low,Machine_Learning,Python
+82,37,53,53,74,68,56,21,66,72,100,4,1,1,0,AI/ML Engineer,70,17.5,Medium,Communication,Git
+83,69,73,47,69,61,50,25,80,72,68,3,3,2,1,Cloud Engineer,82,11.0,Low,Cloud,Git
+84,81,45,36,36,7,69,63,16,89,94,3,2,0,0,Cloud Engineer,62,12.4,Low,Communication,Cloud
+85,72,32,55,40,92,91,32,64,80,75,3,0,5,1,Cloud Engineer,76,8.7,Low,NLP,Git
+86,25,90,70,31,98,83,68,50,33,46,2,1,2,0,AI/ML Engineer,68,18.7,Medium,NLP,Python
+87,94,72,42,25,23,5,71,53,76,88,3,0,0,0,Computer Vision Engineer,58,16.5,Medium,Python,Deep_Learning
+88,32,63,58,33,34,63,50,36,34,48,0,1,3,0,Data Engineer,65,21.8,Medium,Machine_Learning,Cloud
+89,10,73,80,38,52,50,63,94,82,46,3,1,3,0,Data Scientist,70,17.8,Medium,Cloud,Python
+90,52,36,48,45,43,70,45,78,100,48,1,1,2,0,Data Engineer,65,15.3,Medium,Statistics,SQL
+91,29,70,93,49,77,39,48,36,6,54,3,0,4,1,Data Scientist,60,24.2,Medium,SQL,Statistics
+92,39,62,54,54,38,57,75,33,55,79,3,2,1,1,Backend Developer,75,12.7,Low,Communication,Cloud
+93,29,67,56,77,100,13,64,29,73,49,2,2,0,0,NLP Engineer,57,16.3,Medium,NLP,Python
+94,81,61,54,81,88,28,49,56,49,96,0,1,4,2,AI/ML Engineer,72,13.7,Low,Communication,DSA
+95,61,72,29,36,58,58,18,59,41,93,3,4,4,0,Data Engineer,71,19.8,Medium,Communication,Git
+96,62,44,60,62,49,68,44,75,24,58,1,1,1,2,Data Analyst,80,8.1,Low,Cloud,Statistics
+97,71,41,75,63,19,22,42,25,50,32,1,1,3,2,Data Engineer,63,24.4,Medium,SQL,Cloud
+98,39,60,62,75,43,70,46,63,40,34,0,1,0,1,Computer Vision Engineer,60,14.8,Low,Deep_Learning,Python
+99,72,35,40,58,27,26,83,58,42,16,3,0,0,0,Data Analyst,60,12.9,Low,Git,SQL
+100,94,77,67,59,78,5,71,40,13,67,4,1,4,0,AI/ML Engineer,74,18.2,Medium,Python,DSA
+101,34,34,63,55,41,19,57,44,51,62,3,1,1,1,Computer Vision Engineer,67,21.4,Medium,SQL,Machine_Learning
+102,58,48,38,62,86,12,58,51,70,60,3,2,0,0,AI/ML Engineer,56,21.8,Medium,NLP,DSA
+103,89,39,63,73,74,28,79,32,74,67,4,0,0,1,AI/ML Engineer,70,14.8,Low,Python,Machine_Learning
+104,58,50,40,59,65,30,87,53,55,71,2,1,2,0,Data Engineer,67,15.4,Medium,Git,SQL
+105,68,76,5,91,51,37,51,21,79,47,0,3,1,0,Cloud Engineer,65,21.9,Medium,Deep_Learning,Cloud
+106,23,13,39,13,82,91,73,32,89,49,2,0,0,1,AI/ML Engineer,45,29.6,Medium,DSA,Machine_Learning
+107,65,86,83,58,90,100,56,65,14,22,1,0,1,1,Data Engineer,56,15.5,Medium,DSA,Statistics
+108,22,61,76,20,21,67,8,59,28,91,2,0,3,0,Data Analyst,65,14.5,Low,Communication,Python
+109,29,72,59,84,62,28,43,68,71,75,4,3,1,1,Computer Vision Engineer,69,12.1,Low,Deep_Learning,Python
+110,81,47,61,40,75,52,28,55,64,61,1,2,1,0,NLP Engineer,69,13.2,Low,Python,Git
+111,67,62,5,16,90,94,53,87,31,37,1,1,1,1,Data Scientist,64,24.4,Medium,DSA,SQL
+112,66,81,43,34,39,43,75,67,71,65,4,1,3,0,Backend Developer,75,10.1,Low,Machine_Learning,DSA
+113,100,73,95,70,64,73,52,18,65,38,2,1,2,0,Computer Vision Engineer,69,12.4,Low,Python,Cloud
+114,47,70,26,56,61,86,25,5,59,96,4,2,0,1,NLP Engineer,67,21.5,Medium,Communication,Cloud
+115,29,48,33,77,35,50,68,41,71,92,4,2,4,1,Data Scientist,72,22.4,Medium,Communication,Python
+116,79,51,77,50,72,53,100,91,24,67,5,2,2,0,Data Scientist,73,12.4,Low,Git,Statistics
+117,78,48,32,54,84,70,60,24,92,41,5,2,1,1,Cloud Engineer,73,15.3,Medium,Statistics,Cloud
+118,100,47,69,42,51,56,32,72,43,50,3,3,1,0,AI/ML Engineer,62,18.3,Medium,Python,Machine_Learning
+119,35,38,37,58,20,24,49,25,27,26,2,2,2,2,Data Engineer,56,33.9,Medium,Deep_Learning,Cloud
+120,100,70,71,5,33,46,51,38,37,93,0,6,1,0,Cloud Engineer,62,14.3,Low,Python,Cloud
+121,73,88,29,33,55,64,81,67,52,65,1,3,2,0,Data Analyst,76,6.4,Low,Machine_Learning,SQL
+122,42,18,59,100,55,51,47,51,87,5,1,0,0,0,Computer Vision Engineer,57,21.1,Medium,Deep_Learning,Communication
+123,5,69,37,62,54,100,68,52,20,58,2,0,1,0,AI/ML Engineer,56,23.5,Medium,DSA,Python
+124,72,65,55,40,66,97,51,72,25,33,2,0,2,0,Backend Developer,68,12.7,Low,DSA,Communication
+125,86,60,56,25,41,72,42,21,100,21,1,0,1,0,Cloud Engineer,53,17.1,Medium,Statistics,Cloud
+126,45,39,73,10,76,27,72,55,33,46,3,1,5,0,AI/ML Engineer,63,27.0,Medium,NLP,Deep_Learning
+127,88,43,22,60,35,31,45,57,23,87,2,1,0,1,NLP Engineer,52,22.4,Medium,Python,NLP
+128,83,14,62,43,53,63,44,39,56,30,0,2,0,1,Data Engineer,51,21.4,Medium,Python,Machine_Learning
+129,89,44,75,60,42,72,41,46,23,44,1,1,3,1,NLP Engineer,58,18.5,Medium,Python,NLP
+130,58,18,73,77,73,56,33,5,59,80,6,1,1,3,Cloud Engineer,76,17.6,Medium,Communication,Cloud
+131,62,45,39,98,12,66,85,5,73,50,2,2,0,1,Data Analyst,72,12.2,Low,Deep_Learning,Cloud
+132,55,97,56,50,61,61,87,32,49,29,4,2,4,1,AI/ML Engineer,70,18.2,Medium,Machine_Learning,Cloud
+133,27,45,71,52,78,51,22,69,40,50,1,0,1,0,Data Engineer,51,21.5,Medium,NLP,Git
+134,63,90,44,48,43,43,17,24,57,90,2,1,2,0,NLP Engineer,57,20.8,Medium,Machine_Learning,Git
+135,73,100,36,65,28,63,96,41,35,53,4,2,2,0,Cloud Engineer,74,12.7,Low,Machine_Learning,Cloud
+136,32,50,61,93,72,35,94,56,49,47,2,2,5,0,Backend Developer,65,15.0,Medium,Git,Python
+137,72,48,61,62,5,68,100,67,33,70,1,1,2,0,Computer Vision Engineer,64,10.8,Low,Git,Machine_Learning
+138,71,71,89,42,61,66,66,57,72,66,2,2,2,0,Data Scientist,70,8.3,Low,SQL,Deep_Learning
+139,45,86,63,76,55,84,28,58,46,87,3,1,1,0,AI/ML Engineer,64,13.4,Low,Communication,Git
+140,34,95,32,39,44,67,31,58,59,39,1,2,0,0,Data Analyst,64,12.5,Low,Machine_Learning,SQL
+141,58,58,69,42,68,83,23,37,38,30,0,2,4,1,Data Engineer,62,21.5,Medium,DSA,Git
+142,73,46,92,30,63,32,67,31,72,58,1,0,0,2,Cloud Engineer,72,13.7,Low,SQL,Cloud
+143,62,35,33,60,40,32,43,40,35,27,6,1,2,0,Computer Vision Engineer,69,25.8,Medium,Python,Machine_Learning
+144,87,32,57,34,61,34,46,32,70,75,2,1,0,0,Backend Developer,61,14.4,Low,Python,Cloud
+145,49,63,70,63,76,80,50,92,49,63,2,2,0,0,NLP Engineer,76,8.7,Low,Cloud,Python
+146,30,54,56,75,5,41,60,83,44,12,2,1,0,1,Data Scientist,53,28.8,Medium,Cloud,NLP
+147,68,50,81,46,46,79,37,61,17,97,4,0,1,1,Data Scientist,70,19.5,Medium,Communication,Statistics
+148,30,62,66,60,62,94,80,59,77,31,2,1,1,0,NLP Engineer,66,14.1,Low,DSA,Python
+149,64,70,64,92,31,61,13,7,53,67,3,2,1,0,Computer Vision Engineer,71,14.5,Low,Deep_Learning,Cloud
+150,66,79,67,71,72,33,88,44,53,47,0,1,2,2,Data Scientist,70,13.4,Low,Git,DSA
+151,95,57,99,38,60,46,69,76,69,79,2,4,0,0,Data Analyst,80,0.0,Low,SQL,Python
+152,43,86,69,80,100,77,63,93,95,96,4,1,1,3,Computer Vision Engineer,81,4.4,Low,NLP,Python
+153,81,55,71,54,70,55,45,79,60,70,2,3,0,0,Data Engineer,71,8.5,Low,Python,Git
+154,43,47,63,91,75,65,66,56,68,5,4,1,0,0,AI/ML Engineer,62,18.0,Medium,Deep_Learning,Communication
+155,59,53,23,70,74,93,65,55,32,89,2,0,3,1,Cloud Engineer,78,12.1,Low,DSA,Cloud
+156,87,43,50,50,38,51,19,44,48,49,4,1,5,0,NLP Engineer,65,21.3,Medium,Python,NLP
+157,45,80,24,32,60,62,44,49,67,75,1,2,2,0,Data Engineer,65,17.9,Medium,Machine_Learning,SQL
+158,53,12,46,28,5,67,93,81,71,45,4,2,1,0,AI/ML Engineer,62,26.9,Medium,Git,Machine_Learning
+159,37,63,48,61,39,94,76,56,95,57,5,0,1,2,Data Analyst,82,7.0,Low,Statistics,SQL
+160,50,65,45,64,51,57,65,47,32,43,3,1,0,0,Data Analyst,71,10.3,Low,Machine_Learning,SQL
+161,100,69,70,86,42,58,25,41,64,17,1,6,0,1,Data Scientist,65,19.4,Medium,Python,Communication
+162,90,100,23,82,47,41,29,100,60,55,0,0,1,1,Computer Vision Engineer,66,11.5,Low,Machine_Learning,Git
+163,70,72,40,29,90,51,60,66,26,66,2,4,0,0,Data Engineer,63,16.2,Medium,NLP,SQL
+164,91,38,72,51,54,57,61,52,60,91,5,1,1,1,Cloud Engineer,84,7.5,Low,Python,Cloud
+165,36,10,40,75,45,36,55,60,23,50,2,1,0,2,AI/ML Engineer,47,30.0,Medium,Deep_Learning,Machine_Learning
+166,75,33,95,76,50,81,30,36,41,43,2,1,1,0,Data Analyst,63,8.2,Low,SQL,Git
+167,65,40,81,97,18,27,56,49,99,60,2,1,1,0,Data Scientist,59,19.5,Medium,Statistics,NLP
+168,40,58,39,65,100,15,68,53,65,45,2,1,0,1,Data Analyst,65,11.3,Low,NLP,SQL
+169,61,65,44,65,57,40,62,48,71,49,1,3,2,0,Computer Vision Engineer,68,13.6,Low,Statistics,Deep_Learning
+170,38,54,43,29,48,59,56,95,66,52,3,1,0,0,Data Scientist,55,21.5,Medium,Cloud,Python
+171,52,48,76,52,54,67,60,93,14,62,2,1,0,0,Cloud Engineer,72,10.5,Low,Cloud,Statistics
+172,59,55,19,63,49,87,88,89,42,100,3,2,1,0,Data Analyst,74,9.5,Low,Communication,SQL
+173,5,55,62,18,66,49,63,49,84,60,2,0,2,2,NLP Engineer,64,20.5,Medium,Statistics,Python
+174,85,86,44,57,47,84,80,65,29,39,1,0,1,0,AI/ML Engineer,56,13.9,Low,Machine_Learning,Statistics
+175,70,75,30,85,44,33,54,54,30,34,1,1,0,0,AI/ML Engineer,48,22.6,Medium,Deep_Learning,SQL
+176,79,57,43,63,53,15,63,32,76,49,0,3,1,0,NLP Engineer,62,17.6,Medium,Python,DSA
+177,22,75,34,27,74,64,74,76,100,51,1,2,2,1,Backend Developer,66,13.9,Low,Statistics,Python
+178,15,46,59,53,45,33,69,25,73,32,4,1,1,1,Cloud Engineer,62,21.6,Medium,Statistics,Cloud
+179,61,5,84,39,100,58,16,8,90,80,1,1,1,0,Backend Developer,56,20.2,Medium,NLP,Cloud
+180,36,33,39,37,74,76,65,82,28,93,2,1,2,1,NLP Engineer,71,18.3,Medium,Communication,Python
+181,82,26,26,73,28,69,64,39,63,27,1,3,1,1,Cloud Engineer,71,16.4,Medium,Python,Communication
+182,76,78,26,59,77,55,100,17,79,51,3,5,0,0,Computer Vision Engineer,71,14.4,Low,Git,Cloud
+183,37,46,42,53,70,62,60,49,53,73,3,2,1,0,Data Analyst,69,8.9,Low,Communication,SQL
+184,59,82,58,57,68,35,56,5,75,19,1,0,0,0,Computer Vision Engineer,58,20.4,Medium,Machine_Learning,Cloud
+185,53,63,53,77,49,9,52,9,61,79,3,1,2,1,NLP Engineer,65,20.7,Medium,Communication,Cloud
+186,51,100,32,47,65,54,32,81,100,60,3,2,1,0,Backend Developer,64,15.0,Medium,Machine_Learning,Git
+187,30,58,78,72,66,51,95,60,43,75,4,2,5,1,Data Scientist,83,14.4,Low,Git,Python
+188,43,57,6,66,32,28,16,14,24,39,0,4,2,0,Backend Developer,57,34.0,Medium,Deep_Learning,Cloud
+189,32,56,46,72,66,34,57,45,32,71,1,0,0,0,NLP Engineer,54,18.2,Medium,Deep_Learning,Python
+190,12,75,58,19,37,53,53,100,23,67,0,3,3,0,Data Analyst,76,12.5,Low,Cloud,Python
+191,28,82,90,19,52,87,64,44,19,82,0,1,4,0,NLP Engineer,59,19.9,Medium,SQL,Python
+192,57,58,41,50,74,48,22,62,83,81,6,1,2,1,Data Engineer,72,16.7,Medium,Statistics,Git
+193,66,68,73,43,5,72,65,40,68,22,4,1,1,0,AI/ML Engineer,65,22.1,Medium,SQL,NLP
+194,100,59,79,59,24,46,58,45,50,53,2,3,0,0,Data Analyst,74,3.2,Low,Python,Cloud
+195,77,27,81,38,96,32,47,56,56,66,1,0,5,0,Computer Vision Engineer,58,17.4,Medium,NLP,Machine_Learning
+196,67,23,100,34,25,67,47,44,69,20,2,2,5,1,Data Scientist,57,25.6,Medium,SQL,Machine_Learning
+197,42,100,79,90,40,57,84,70,67,93,1,1,1,1,Data Analyst,78,3.4,Low,Machine_Learning,Python
+198,93,89,98,53,27,100,92,71,36,54,3,3,3,0,Backend Developer,83,4.9,Low,DSA,Communication
+199,34,68,36,15,50,62,49,41,40,58,2,1,0,0,Backend Developer,53,19.0,Medium,Machine_Learning,Cloud
+200,55,60,76,48,85,62,59,26,62,36,3,1,0,0,Data Scientist,59,16.6,Medium,NLP,Cloud
+201,72,77,49,56,83,17,78,48,29,31,4,2,0,1,Data Scientist,61,20.6,Medium,NLP,DSA
+202,48,49,65,44,47,55,81,29,72,73,3,2,1,1,Data Analyst,80,6.8,Low,Git,Cloud
+203,45,34,53,66,87,74,32,46,40,32,1,5,2,1,AI/ML Engineer,65,24.7,Medium,NLP,Machine_Learning
+204,34,20,28,54,38,48,45,78,41,46,3,2,3,0,Data Engineer,66,25.0,Medium,Cloud,SQL
+205,38,37,46,51,36,52,30,72,77,39,2,3,3,2,Cloud Engineer,79,16.8,Medium,Statistics,Git
+206,78,69,35,100,61,84,52,67,74,83,2,2,1,2,AI/ML Engineer,81,8.8,Low,Deep_Learning,SQL
+207,46,67,77,88,56,63,59,16,46,47,0,0,1,0,NLP Engineer,56,15.8,Medium,Deep_Learning,Cloud
+208,40,60,42,19,95,87,46,67,44,32,3,4,1,0,Data Scientist,70,23.5,Medium,NLP,Deep_Learning
+209,81,53,58,33,13,57,68,71,69,63,2,1,2,1,Cloud Engineer,73,6.8,Low,Python,Cloud
+210,73,84,45,39,10,57,100,61,54,62,4,2,3,0,NLP Engineer,76,14.4,Low,Git,NLP
+211,58,29,48,25,34,9,61,94,45,77,6,1,2,1,Data Analyst,82,11.6,Low,Cloud,SQL
+212,51,61,49,55,48,51,60,32,32,23,2,1,1,1,Cloud Engineer,55,20.7,Medium,Machine_Learning,Cloud
+213,95,33,49,33,40,70,39,36,73,65,5,3,0,0,Cloud Engineer,81,12.3,Low,Python,Cloud
+214,60,82,66,50,43,79,22,33,46,83,1,1,1,1,Data Scientist,61,19.8,Medium,Communication,Git
+215,72,100,73,77,52,23,5,43,5,67,1,3,0,0,Cloud Engineer,55,24.2,Medium,Machine_Learning,Git
+216,23,43,49,31,54,66,50,70,36,78,2,2,2,1,Computer Vision Engineer,68,18.8,Medium,Communication,Deep_Learning
+217,55,51,93,95,52,47,20,55,100,52,4,1,0,0,NLP Engineer,66,16.8,Medium,Statistics,Git
+218,70,82,42,59,68,73,69,47,80,52,3,0,2,1,Data Scientist,71,11.0,Low,Machine_Learning,SQL
+219,60,34,44,55,36,49,5,71,83,65,5,1,0,0,Data Analyst,63,11.2,Low,Statistics,Git
+220,28,59,83,66,38,90,70,12,75,42,1,2,4,0,AI/ML Engineer,64,21.5,Medium,DSA,Cloud
+221,24,64,87,30,73,43,74,71,59,13,5,1,2,0,Cloud Engineer,76,16.6,Medium,SQL,Communication
+222,58,47,39,100,84,29,63,89,21,57,2,2,2,0,AI/ML Engineer,64,19.6,Medium,Deep_Learning,DSA
+223,74,69,74,38,58,5,65,69,47,62,3,3,0,0,Backend Developer,70,11.8,Low,Python,DSA
+224,43,35,54,55,66,24,69,5,41,44,2,1,0,0,Computer Vision Engineer,53,25.9,Medium,Git,Cloud
+225,11,27,64,95,50,36,78,62,85,25,3,4,1,0,Data Engineer,65,22.2,Medium,Deep_Learning,Python
+226,75,92,52,33,28,75,54,76,100,37,2,0,3,2,Computer Vision Engineer,72,10.4,Low,Statistics,Deep_Learning
+227,65,73,45,77,44,64,23,59,33,77,4,1,1,0,Backend Developer,71,14.6,Low,Deep_Learning,Git
+228,32,53,49,28,53,48,47,46,89,47,3,2,0,1,Backend Developer,64,19.1,Medium,Statistics,Python
+229,41,5,99,30,68,26,35,18,38,40,1,1,5,0,Backend Developer,59,27.2,Medium,SQL,Cloud
+230,86,39,30,41,88,30,100,36,72,52,1,1,1,1,Backend Developer,63,15.7,Medium,Git,Cloud
+231,80,41,50,46,20,67,56,88,36,80,3,3,1,0,Data Scientist,68,20.1,Medium,Cloud,NLP
+232,80,54,81,57,38,78,50,67,44,40,2,2,5,0,Data Scientist,71,15.5,Medium,SQL,NLP
+233,50,40,9,43,53,40,37,26,60,98,3,0,0,0,Data Engineer,51,26.0,Medium,Communication,SQL
+234,26,45,54,64,61,85,5,5,44,80,3,1,4,1,Cloud Engineer,62,22.1,Medium,DSA,Cloud
+235,71,93,46,82,94,46,42,51,53,80,2,4,2,1,Computer Vision Engineer,80,8.4,Low,NLP,Git
+236,45,80,76,100,100,28,47,100,54,61,5,1,2,0,Computer Vision Engineer,71,9.5,Low,Deep_Learning,DSA
+237,54,51,88,57,84,32,69,38,42,46,2,0,0,1,NLP Engineer,63,15.6,Medium,SQL,DSA
+238,63,60,79,36,88,53,35,78,48,72,2,1,5,1,Data Scientist,71,14.1,Low,NLP,Deep_Learning
+239,64,41,57,92,58,90,83,69,47,79,0,2,1,0,Computer Vision Engineer,74,5.9,Low,Deep_Learning,Machine_Learning
+240,68,21,50,83,20,31,58,32,37,45,1,4,2,0,Backend Developer,58,20.3,Medium,Deep_Learning,Cloud
+241,24,36,35,52,30,66,70,26,41,43,1,5,3,0,Computer Vision Engineer,68,23.8,Medium,Git,Python
+242,100,66,40,17,67,8,48,77,59,100,0,1,1,0,Data Scientist,57,21.0,Medium,Python,DSA
+243,63,35,53,40,14,66,27,51,76,21,3,2,1,1,AI/ML Engineer,59,30.0,Medium,Statistics,NLP
+244,42,52,36,64,13,64,37,43,65,57,1,3,1,0,Computer Vision Engineer,63,18.7,Medium,Statistics,Python
+245,48,21,82,46,54,66,100,61,50,26,4,0,1,0,Data Analyst,71,8.3,Low,Git,Machine_Learning
+246,41,35,63,52,74,52,46,67,75,40,4,0,1,3,Data Analyst,76,8.0,Low,Statistics,Python
+247,68,72,30,80,51,44,39,62,55,64,3,2,3,1,AI/ML Engineer,69,16.5,Medium,Deep_Learning,SQL
+248,36,68,71,10,37,35,57,66,89,44,0,2,0,0,Computer Vision Engineer,53,19.9,Medium,Statistics,Deep_Learning
+249,14,63,17,46,67,73,70,62,29,78,3,1,2,0,Computer Vision Engineer,56,19.4,Medium,Communication,Python
+250,77,71,78,70,65,76,24,60,53,57,2,2,0,0,Backend Developer,67,9.9,Low,SQL,Git
+251,70,37,65,49,12,76,54,84,17,48,2,1,4,0,Data Analyst,67,9.2,Low,Cloud,Statistics
+252,68,34,41,42,49,86,47,29,67,86,3,0,1,0,Backend Developer,62,12.6,Low,DSA,Cloud
+253,29,56,12,35,100,47,44,47,47,68,4,0,0,1,Cloud Engineer,59,21.1,Medium,NLP,SQL
+254,34,58,52,35,75,52,50,60,72,33,0,2,2,1,Data Analyst,75,9.1,Low,NLP,Python
+255,51,59,57,42,51,38,29,72,57,52,2,2,2,1,Cloud Engineer,69,15.1,Medium,Cloud,Git
+256,36,28,97,42,74,60,32,55,73,51,2,1,2,0,AI/ML Engineer,65,23.1,Medium,SQL,Machine_Learning
+257,77,63,29,18,33,74,48,57,24,75,1,3,1,1,NLP Engineer,56,21.1,Medium,Python,NLP
+258,85,56,48,81,5,55,53,45,95,35,2,2,3,0,Cloud Engineer,71,15.4,Medium,Statistics,Cloud
+259,56,44,58,49,57,99,31,51,71,46,0,3,4,0,Backend Developer,73,14.3,Low,DSA,Git
+260,43,56,69,71,100,48,33,61,37,89,1,3,0,0,Computer Vision Engineer,61,15.1,Medium,NLP,Python
+261,46,77,88,75,14,40,51,13,35,51,0,1,1,0,Cloud Engineer,56,21.5,Medium,SQL,Cloud
+262,78,22,44,53,61,77,67,51,50,67,2,4,0,1,NLP Engineer,75,13.6,Low,Python,Machine_Learning
+263,60,42,30,85,69,42,60,21,10,80,3,1,5,1,Data Engineer,57,25.5,Medium,Deep_Learning,Cloud
+264,79,8,100,37,55,56,100,53,92,64,3,1,0,1,Data Engineer,64,11.2,Low,SQL,Machine_Learning
+265,69,59,70,36,56,81,78,68,35,31,3,1,0,0,Backend Developer,71,8.4,Low,DSA,Communication
+266,58,40,72,26,70,70,64,32,61,28,1,3,2,2,Cloud Engineer,75,13.8,Low,SQL,Cloud
+267,100,75,41,80,42,80,57,40,71,58,7,1,2,0,Computer Vision Engineer,81,7.9,Low,Python,Cloud
+268,32,100,97,38,8,53,64,35,36,91,1,2,0,1,Data Analyst,62,10.4,Low,Machine_Learning,Python
+269,59,73,85,51,33,68,49,84,41,35,2,0,0,1,Computer Vision Engineer,60,12.7,Low,SQL,Deep_Learning
+270,82,16,63,78,84,46,58,56,89,36,3,0,0,0,Data Engineer,57,18.0,Medium,Statistics,Machine_Learning
+271,40,63,58,82,64,54,43,63,47,60,2,1,0,1,Data Engineer,71,16.2,Medium,Deep_Learning,Git
+272,56,75,77,58,52,44,36,39,24,53,1,0,1,0,AI/ML Engineer,46,22.3,Medium,SQL,Cloud
+273,36,23,13,73,56,96,32,55,23,41,1,1,0,0,Data Analyst,52,19.7,Medium,DSA,SQL
+274,77,36,27,42,52,31,55,16,29,70,2,2,0,0,Data Scientist,51,30.0,Medium,Python,Cloud
+275,56,5,51,55,5,56,32,13,92,31,2,1,0,0,Data Engineer,47,30.6,Medium,Statistics,Cloud
+276,58,80,5,90,81,44,67,55,83,78,1,2,1,0,NLP Engineer,60,11.2,Low,Deep_Learning,SQL
+277,80,63,87,59,38,55,32,7,35,57,6,2,1,1,Data Engineer,72,18.4,Medium,SQL,Cloud
+278,51,32,7,21,23,87,58,64,5,27,4,2,0,0,Computer Vision Engineer,54,29.7,Medium,DSA,Deep_Learning
+279,99,40,81,29,47,67,54,61,43,18,1,3,0,1,Computer Vision Engineer,67,18.5,Medium,Python,Deep_Learning
+280,67,51,47,56,62,42,56,73,58,56,2,1,1,0,Data Engineer,67,14.0,Low,Cloud,SQL
+281,73,40,56,100,27,65,92,77,96,60,1,0,2,0,Backend Developer,76,4.9,Low,Deep_Learning,Communication
+282,86,100,39,92,64,66,16,51,36,74,2,4,5,2,NLP Engineer,84,12.9,Low,Machine_Learning,Git
+283,62,100,54,47,79,36,41,41,49,50,6,1,1,0,AI/ML Engineer,62,20.0,Medium,Machine_Learning,DSA
+284,89,69,19,60,57,56,79,63,89,32,2,1,0,1,AI/ML Engineer,63,15.9,Medium,Python,SQL
+285,16,42,42,58,100,55,58,49,72,30,6,2,5,0,Data Scientist,75,23.0,Medium,NLP,Python
+286,49,64,60,31,56,30,57,44,100,54,3,1,5,0,AI/ML Engineer,59,22.5,Medium,Statistics,Deep_Learning
+287,77,52,30,49,68,56,59,56,26,77,3,1,2,0,Data Engineer,69,17.1,Medium,Python,SQL
+288,78,45,42,70,41,45,79,59,83,73,2,2,4,0,NLP Engineer,69,12.0,Low,Statistics,NLP
+289,79,83,73,35,36,81,12,52,65,15,4,1,0,1,AI/ML Engineer,62,21.8,Medium,Machine_Learning,Git
+290,36,91,9,66,60,37,23,78,59,61,1,0,1,1,NLP Engineer,54,19.8,Medium,Machine_Learning,SQL
+291,68,34,47,100,73,50,52,76,70,57,2,3,0,0,Cloud Engineer,67,9.9,Low,Deep_Learning,Git
+292,58,62,43,43,27,96,55,50,34,100,3,2,3,1,AI/ML Engineer,64,21.8,Medium,Communication,NLP
+293,100,35,42,20,30,71,92,74,55,34,3,0,0,0,Data Scientist,48,23.4,Medium,Python,Machine_Learning
+294,11,20,43,36,46,69,15,10,38,66,2,0,3,0,Data Engineer,52,33.1,Medium,DSA,Cloud
+295,61,83,67,100,68,47,100,93,18,37,3,1,2,0,Computer Vision Engineer,68,10.2,Low,Deep_Learning,Statistics
+296,86,41,76,91,66,21,34,85,51,57,2,3,2,0,Backend Developer,76,11.8,Low,Deep_Learning,DSA
+297,50,18,76,60,62,66,57,44,81,59,0,0,1,0,Computer Vision Engineer,59,16.2,Medium,Statistics,Machine_Learning
+298,33,80,60,60,55,43,60,66,15,43,4,1,0,0,Backend Developer,59,19.0,Medium,Machine_Learning,Python
+299,56,65,76,100,21,71,57,13,84,65,0,1,0,0,NLP Engineer,62,16.3,Medium,Deep_Learning,NLP
+300,6,81,34,64,63,84,60,36,18,47,2,1,0,0,NLP Engineer,45,22.2,Medium,DSA,Python
+301,68,5,68,67,26,61,79,68,39,55,7,0,1,0,Data Scientist,67,20.8,Medium,Git,Machine_Learning
+302,45,74,56,86,20,24,5,39,59,57,2,2,0,2,NLP Engineer,59,24.0,Medium,Deep_Learning,NLP
+303,42,70,70,34,29,30,44,39,92,43,2,0,1,0,Data Analyst,70,9.3,Low,Statistics,Python
+304,58,32,46,5,73,51,5,21,45,25,3,2,0,0,NLP Engineer,49,32.4,Medium,NLP,Deep_Learning
+305,86,40,63,100,51,60,100,70,21,37,3,0,2,0,NLP Engineer,68,13.6,Low,Deep_Learning,NLP
+306,41,10,55,62,61,47,58,90,64,46,0,2,4,0,Data Scientist,59,21.6,Medium,Cloud,Machine_Learning
+307,62,74,17,39,59,5,95,39,33,50,4,1,0,0,Data Engineer,57,24.5,Medium,Git,SQL
+308,100,44,74,31,5,50,52,58,72,70,1,0,1,1,AI/ML Engineer,58,20.5,Medium,Python,NLP
+309,34,91,78,44,62,39,63,29,72,35,3,2,1,0,NLP Engineer,61,18.9,Medium,Machine_Learning,Python
+310,73,24,100,43,72,94,5,81,70,93,3,0,0,0,Computer Vision Engineer,56,16.5,Medium,SQL,Git
+311,43,75,15,49,78,53,100,15,33,5,2,1,0,0,Cloud Engineer,51,25.6,Medium,Git,Cloud
+312,53,32,10,40,59,24,55,99,79,93,4,2,1,0,NLP Engineer,62,22.7,Medium,Cloud,SQL
+313,92,52,42,54,30,28,65,78,52,10,3,0,2,1,Data Engineer,67,19.3,Medium,Python,Communication
+314,43,70,96,79,57,43,5,51,48,64,2,3,0,1,Data Engineer,64,18.1,Medium,SQL,Git
+315,70,82,100,32,58,44,74,61,36,55,2,3,1,1,Backend Developer,78,10.0,Low,SQL,DSA
+316,34,96,27,80,78,16,48,53,18,49,1,2,2,0,Computer Vision Engineer,60,22.0,Medium,Machine_Learning,DSA
+317,51,9,5,10,48,49,63,50,62,45,3,1,3,1,AI/ML Engineer,60,34.0,Medium,Git,Machine_Learning
+318,62,42,38,16,23,50,88,43,38,28,5,0,2,0,Computer Vision Engineer,61,24.5,Medium,Git,Deep_Learning
+319,69,45,100,89,73,10,69,47,32,47,4,3,2,0,Computer Vision Engineer,66,16.6,Medium,SQL,DSA
+320,58,65,49,68,11,45,95,37,41,45,3,0,1,0,Data Engineer,53,18.9,Medium,Git,Cloud
+321,36,98,46,58,85,58,57,69,62,53,0,3,1,0,Data Scientist,60,12.6,Low,Machine_Learning,Python
+322,76,77,39,11,61,42,51,38,100,19,0,0,2,0,Backend Developer,66,20.0,Medium,Statistics,Communication
+323,47,50,89,100,56,28,44,79,31,50,5,0,0,3,Data Scientist,66,20.4,Medium,Deep_Learning,Statistics
+324,43,64,71,99,5,53,82,52,5,25,2,1,4,0,AI/ML Engineer,58,26.3,Medium,Deep_Learning,NLP
+325,25,38,81,81,90,55,61,82,21,74,0,2,4,0,Data Analyst,76,9.5,Low,NLP,Python
+326,100,62,70,70,96,15,27,70,30,21,3,1,1,0,Backend Developer,68,20.2,Medium,Python,DSA
+327,32,100,67,30,59,28,95,60,33,71,5,0,0,2,Data Scientist,64,20.6,Medium,Machine_Learning,Python
+328,90,24,83,66,96,73,26,57,32,17,4,1,2,0,Data Scientist,63,20.3,Medium,NLP,Machine_Learning
+329,80,59,63,63,30,79,26,30,56,48,2,0,2,0,AI/ML Engineer,59,20.5,Medium,Python,Cloud
+330,54,5,53,37,96,57,66,52,57,17,1,0,2,2,Data Analyst,62,12.7,Low,NLP,Machine_Learning
+331,52,68,66,55,75,40,71,30,67,47,1,3,2,0,Data Engineer,75,15.4,Medium,NLP,Cloud
+332,62,51,43,100,61,36,85,86,96,100,1,1,0,1,AI/ML Engineer,67,12.2,Low,Deep_Learning,Machine_Learning
+333,64,64,71,46,45,88,19,49,58,69,4,2,0,1,Cloud Engineer,68,12.1,Low,DSA,Git
+334,84,77,55,71,5,65,40,93,69,61,1,0,2,0,NLP Engineer,68,11.9,Low,Cloud,NLP
+335,25,42,64,82,70,53,44,82,73,35,2,6,1,0,AI/ML Engineer,64,18.7,Medium,Deep_Learning,Python
+336,54,81,36,54,65,60,80,66,35,100,5,2,4,0,Backend Developer,81,10.4,Low,Communication,SQL
+337,59,31,52,45,71,37,35,62,100,51,0,4,3,0,Backend Developer,66,16.8,Medium,Statistics,Git
+338,66,58,45,55,90,24,35,87,78,47,4,2,3,0,Computer Vision Engineer,76,17.0,Medium,NLP,DSA
+339,62,27,93,64,14,55,64,29,67,94,2,0,2,0,Data Analyst,72,6.8,Low,Communication,Cloud
+340,32,72,84,45,52,56,44,60,91,25,0,1,1,2,Backend Developer,61,17.3,Medium,Statistics,Communication
+341,43,59,27,47,59,33,94,40,87,51,4,2,0,0,Backend Developer,61,18.6,Medium,Git,Cloud
+342,64,47,12,28,63,35,79,33,65,37,2,2,1,1,NLP Engineer,58,24.6,Medium,Git,SQL
+343,71,58,89,58,65,78,46,7,45,73,3,3,4,1,Cloud Engineer,75,14.4,Low,SQL,Cloud
+344,31,69,50,56,46,21,61,99,35,37,2,0,0,0,NLP Engineer,49,21.4,Medium,Cloud,Python
+345,56,17,44,69,96,24,5,25,81,14,1,4,2,2,Data Engineer,49,34.0,Medium,NLP,Git
+346,28,46,25,63,49,51,27,92,75,77,1,3,2,0,Cloud Engineer,66,14.7,Low,Cloud,Git
+347,26,72,56,84,60,30,95,32,50,77,0,2,0,0,NLP Engineer,59,15.9,Medium,Git,Python
+348,54,57,77,100,68,91,27,100,12,43,2,2,1,0,AI/ML Engineer,64,17.7,Medium,Deep_Learning,Statistics
+349,21,14,16,34,71,73,41,54,29,31,1,2,3,1,Data Engineer,59,33.0,Medium,DSA,SQL
+350,68,96,31,35,68,70,45,64,66,64,2,0,3,0,Data Scientist,67,13.9,Low,Machine_Learning,SQL
+351,57,41,28,69,69,81,31,44,60,43,6,3,3,0,Backend Developer,80,18.2,Medium,DSA,Git
+352,92,31,65,56,76,74,76,34,70,70,5,1,0,0,Data Analyst,71,5.5,Low,Python,Cloud
+353,67,57,23,72,79,31,34,80,50,35,1,1,0,1,Data Scientist,54,21.4,Medium,Cloud,SQL
+354,81,80,71,100,43,77,53,83,55,46,2,2,0,1,Data Engineer,77,8.2,Low,Deep_Learning,Git
+355,63,61,65,67,74,41,40,56,71,53,1,1,4,0,Data Scientist,66,14.0,Low,NLP,Git
+356,95,77,69,17,31,52,19,100,74,55,3,3,1,1,Data Analyst,78,5.5,Low,Cloud,Git
+357,72,56,52,66,72,74,52,77,5,76,1,1,3,1,NLP Engineer,69,12.0,Low,Cloud,Statistics
+358,36,100,22,43,52,65,84,54,22,74,3,1,1,0,Data Analyst,70,13.6,Low,Machine_Learning,SQL
+359,85,65,38,48,71,44,56,43,95,99,2,2,1,2,Cloud Engineer,67,11.9,Low,Communication,Cloud
+360,20,66,52,50,68,60,17,68,35,22,2,1,3,0,Data Scientist,50,27.2,Medium,NLP,Python
+361,52,57,29,68,72,27,47,48,40,28,2,1,5,0,NLP Engineer,58,21.7,Medium,NLP,Communication
+362,63,20,32,28,78,39,58,46,26,51,1,0,2,0,Data Scientist,52,28.9,Medium,NLP,Machine_Learning
+363,37,87,62,40,44,40,32,44,64,56,1,1,3,0,Data Scientist,59,22.6,Medium,Machine_Learning,Python
+364,33,77,70,31,64,78,82,53,47,83,5,2,0,0,Backend Developer,71,7.7,Low,Communication,Python
+365,46,36,55,21,76,54,54,53,93,90,1,2,1,2,Cloud Engineer,70,10.3,Low,Statistics,Cloud
+366,65,12,22,76,15,50,82,67,55,45,4,2,0,1,Cloud Engineer,68,14.2,Low,Git,Communication
+367,60,32,72,70,56,55,77,63,39,50,0,0,0,0,NLP Engineer,59,13.5,Low,Git,Machine_Learning
+368,8,53,81,71,87,48,86,51,89,54,3,4,1,0,Backend Developer,74,14.9,Low,Statistics,Python
+369,67,53,54,84,70,67,73,48,100,5,2,5,5,0,Data Engineer,82,16.0,Medium,Statistics,Communication
+370,49,67,91,29,46,64,22,67,5,66,3,1,3,1,AI/ML Engineer,60,24.5,Medium,SQL,Statistics
+371,12,78,74,41,22,31,59,59,79,45,1,0,3,0,Computer Vision Engineer,64,19.3,Medium,Statistics,Python
+372,73,90,64,60,29,36,38,39,47,49,0,2,2,0,Data Scientist,56,21.0,Medium,Machine_Learning,NLP
+373,76,83,57,51,56,40,68,20,30,37,6,1,0,1,Cloud Engineer,71,19.0,Medium,Machine_Learning,Cloud
+374,73,46,18,12,59,45,15,57,53,44,2,2,2,1,Computer Vision Engineer,60,26.2,Medium,Python,Deep_Learning
+375,64,43,46,71,36,13,59,80,71,59,2,4,2,2,Data Engineer,73,16.1,Medium,Cloud,DSA
+376,5,82,52,5,23,49,28,45,56,89,2,3,2,0,Data Analyst,62,16.1,Medium,Communication,Python
+377,79,67,16,78,67,67,42,51,10,75,2,3,0,0,Data Engineer,53,20.1,Medium,Python,SQL
+378,52,39,20,20,37,70,45,60,44,44,3,1,0,2,NLP Engineer,52,26.4,Medium,DSA,NLP
+379,59,88,36,45,70,89,26,16,55,53,4,1,3,0,AI/ML Engineer,63,22.0,Medium,DSA,Cloud
+380,13,49,47,55,24,20,71,45,71,81,0,1,0,1,Data Scientist,53,27.7,Medium,Communication,Python
+381,55,70,48,74,26,13,100,97,10,54,5,0,4,0,Data Analyst,75,13.8,Low,Git,Statistics
+382,54,10,21,55,42,100,97,35,68,72,1,0,4,0,Data Scientist,55,25.0,Medium,DSA,Machine_Learning
+383,100,55,48,30,92,34,97,32,75,18,0,1,1,0,Cloud Engineer,55,16.3,Medium,Python,Communication
+384,5,43,77,37,35,94,56,37,55,75,5,2,0,1,AI/ML Engineer,65,25.2,Medium,DSA,Python
+385,58,57,64,80,29,70,35,98,63,45,3,0,1,0,NLP Engineer,61,15.1,Medium,Cloud,NLP
+386,44,40,53,78,100,26,65,39,43,38,1,3,0,1,Computer Vision Engineer,55,19.9,Medium,NLP,Machine_Learning
+387,75,57,54,83,56,43,32,84,47,42,3,1,3,0,AI/ML Engineer,68,16.9,Medium,Cloud,Git
+388,52,71,62,44,94,31,49,30,55,92,6,0,0,0,Data Analyst,69,9.1,Low,NLP,Cloud
+389,21,75,59,49,45,11,70,25,38,65,4,1,1,1,Cloud Engineer,59,22.0,Medium,Machine_Learning,Cloud
+390,80,73,59,57,41,45,69,60,58,38,2,2,0,0,Backend Developer,74,11.4,Low,Python,Communication
+391,35,60,19,49,66,68,68,74,45,66,3,0,1,2,Data Analyst,68,11.6,Low,Cloud,SQL
+392,60,29,21,64,23,44,54,78,42,81,1,2,2,0,NLP Engineer,63,21.8,Medium,Communication,NLP
+393,57,100,9,62,45,33,54,53,80,57,1,1,2,0,NLP Engineer,59,18.5,Medium,Machine_Learning,SQL
+394,60,50,84,78,100,57,45,47,62,92,2,1,0,1,Backend Developer,75,10.6,Low,NLP,Cloud
+395,63,45,59,45,85,39,77,42,35,39,3,0,3,1,Cloud Engineer,74,15.5,Medium,NLP,Cloud
+396,62,77,64,79,62,58,15,49,54,100,2,0,2,1,Data Scientist,69,15.4,Medium,Communication,Git
+397,21,40,67,35,86,79,23,38,73,72,5,2,1,1,AI/ML Engineer,64,24.1,Medium,NLP,Python
+398,61,56,75,44,94,21,82,71,16,100,1,0,0,0,Backend Developer,59,11.6,Low,Communication,DSA
+399,68,86,18,72,79,70,57,32,87,56,1,1,1,1,Data Analyst,70,9.2,Low,Statistics,SQL
+400,45,36,71,45,36,44,54,86,11,56,1,1,3,2,Data Scientist,64,26.2,Medium,Cloud,Statistics
+401,58,61,70,16,75,76,65,45,62,51,3,3,1,0,Data Scientist,69,16.2,Medium,DSA,Deep_Learning
+402,63,8,47,37,82,48,31,28,100,54,3,2,2,1,Computer Vision Engineer,60,25.4,Medium,Statistics,Machine_Learning
+403,50,49,68,50,48,86,15,54,76,69,0,2,0,1,Data Analyst,60,7.8,Low,DSA,Git
+404,63,100,45,50,75,53,66,91,72,58,4,2,0,2,Backend Developer,84,9.0,Low,Machine_Learning,SQL
+405,65,30,61,5,41,68,81,66,23,79,1,1,2,0,Data Scientist,55,24.4,Medium,Git,Deep_Learning
+406,67,49,61,34,32,71,45,35,40,71,0,1,2,0,AI/ML Engineer,53,22.7,Medium,DSA,Deep_Learning
+407,44,100,52,84,82,59,22,53,58,84,3,2,0,0,AI/ML Engineer,67,14.2,Low,Machine_Learning,Git
+408,60,74,59,48,53,65,9,75,100,66,4,0,4,2,Data Analyst,80,8.2,Low,Statistics,Git
+409,64,31,36,47,49,54,56,83,46,42,1,2,1,1,Cloud Engineer,66,12.8,Low,Cloud,Communication
+410,64,29,37,66,41,52,30,100,57,81,2,1,0,0,Computer Vision Engineer,62,15.2,Medium,Cloud,Machine_Learning
+411,24,75,85,56,65,78,39,100,83,67,3,1,5,0,NLP Engineer,72,12.1,Low,Cloud,Python
+412,74,94,56,46,41,38,67,25,36,85,1,2,1,1,Data Analyst,66,9.0,Low,Machine_Learning,Cloud
+413,54,100,55,61,47,63,49,71,73,50,1,1,1,1,Data Scientist,62,12.6,Low,Machine_Learning,NLP
+414,85,83,58,64,76,74,47,67,66,60,3,1,2,0,Cloud Engineer,75,8.1,Low,Python,Git
+415,69,23,100,35,54,90,99,74,43,58,3,2,4,1,Computer Vision Engineer,81,14.2,Low,SQL,Machine_Learning
+416,37,34,5,67,14,35,43,22,44,23,2,0,1,0,Computer Vision Engineer,42,32.6,Medium,Deep_Learning,SQL
+417,84,70,59,50,20,88,39,57,63,51,4,0,1,0,Backend Developer,62,10.4,Low,DSA,Git
+418,35,41,24,41,54,28,29,100,35,48,3,2,3,1,NLP Engineer,59,28.5,Medium,Cloud,Python
+419,17,48,78,77,73,43,81,34,75,16,1,2,2,0,Data Engineer,69,20.9,Medium,Git,Communication
+420,56,52,46,66,30,45,5,68,53,57,4,1,2,0,Data Engineer,60,20.8,Medium,Cloud,Git
+421,76,42,39,37,24,75,39,36,67,55,2,1,3,0,NLP Engineer,60,22.2,Medium,Python,NLP
+422,42,21,8,84,69,57,45,43,30,45,1,0,1,0,Data Analyst,46,18.6,Medium,Deep_Learning,SQL
+423,62,42,26,30,24,75,89,56,20,66,1,2,2,0,Cloud Engineer,70,12.0,Low,Git,Statistics
+424,32,84,34,38,34,29,59,43,66,15,1,2,3,0,Computer Vision Engineer,55,24.0,Medium,Machine_Learning,Communication
+425,89,57,54,19,79,44,56,54,5,36,4,2,1,0,Data Scientist,59,24.6,Medium,Python,Statistics
+426,72,77,16,30,47,40,62,26,77,54,2,0,0,0,Cloud Engineer,55,18.2,Medium,Machine_Learning,Cloud
+427,82,48,80,100,54,69,66,60,73,49,4,1,4,0,Backend Developer,87,7.1,Low,Deep_Learning,Communication
+428,14,50,89,35,91,47,29,69,57,55,1,2,1,0,Computer Vision Engineer,55,21.6,Medium,NLP,Python
+429,20,42,62,37,80,38,58,53,32,56,1,3,1,2,Data Scientist,56,25.2,Medium,NLP,Python
+430,55,45,69,52,19,21,55,37,43,77,2,2,1,0,Computer Vision Engineer,62,19.8,Medium,Communication,DSA
+431,16,48,44,75,49,82,57,96,23,92,4,2,3,2,Data Engineer,78,18.2,Medium,Cloud,Python
+432,78,91,54,38,35,63,24,49,63,85,2,0,5,0,Data Scientist,67,17.6,Medium,Machine_Learning,NLP
+433,84,100,34,50,41,53,61,39,49,57,0,2,0,0,Data Analyst,68,7.8,Low,Machine_Learning,SQL
+434,64,31,96,47,49,70,98,71,74,32,4,1,3,0,Data Engineer,78,9.2,Low,Git,Communication
+435,71,65,60,55,12,87,74,33,72,59,2,0,0,3,Cloud Engineer,68,9.2,Low,DSA,Cloud
+436,86,40,63,80,48,83,15,100,56,80,0,1,1,0,Data Scientist,60,15.8,Medium,Cloud,Git
+437,76,8,74,86,50,53,77,37,70,34,1,1,2,1,Backend Developer,68,14.1,Low,Deep_Learning,Cloud
+438,92,10,77,72,62,43,67,79,32,77,3,0,0,0,Cloud Engineer,66,11.2,Low,Python,Statistics
+439,71,52,61,53,60,72,12,81,51,92,4,1,0,0,Data Analyst,66,7.6,Low,Communication,Git
+440,70,40,47,100,48,63,67,32,35,27,3,1,1,0,Cloud Engineer,61,16.9,Medium,Deep_Learning,Cloud
+441,75,70,70,71,86,37,27,64,31,26,6,1,2,1,Data Scientist,68,18.0,Medium,NLP,Statistics
+442,99,59,79,28,32,10,42,86,52,24,1,3,1,1,AI/ML Engineer,55,25.3,Medium,Python,DSA
+443,73,92,43,55,27,97,10,94,57,65,2,0,2,1,Data Engineer,72,13.3,Low,DSA,Git
+444,17,62,72,72,48,67,15,46,43,90,1,5,2,0,NLP Engineer,66,19.9,Medium,Communication,Python
+445,31,43,95,61,61,33,45,97,66,47,4,1,2,0,Data Scientist,71,19.3,Medium,Cloud,Python
+446,98,56,62,100,72,43,55,90,73,89,1,3,0,1,NLP Engineer,71,6.4,Low,Deep_Learning,Machine_Learning
+447,30,34,100,71,5,48,53,21,67,8,3,0,2,1,AI/ML Engineer,55,33.0,Medium,SQL,Communication
+448,28,37,60,66,48,47,59,54,86,62,3,0,2,0,Cloud Engineer,72,14.0,Low,Statistics,Python
+449,67,77,51,46,66,49,47,77,53,83,3,1,0,0,Computer Vision Engineer,68,9.5,Low,Communication,Deep_Learning
+450,30,43,100,72,50,50,32,54,5,84,2,0,0,1,Backend Developer,45,19.4,Medium,SQL,Git
+451,5,26,6,25,17,61,48,72,54,49,0,2,0,0,Data Scientist,35,36.9,High,Cloud,Python
+452,73,25,57,30,28,45,44,43,66,57,1,4,5,0,Data Scientist,61,26.2,Medium,Python,Machine_Learning
+453,31,32,66,47,63,77,100,48,23,96,3,1,1,0,Data Scientist,58,22.5,Medium,Git,Machine_Learning
+454,54,21,60,9,49,65,43,31,74,53,0,3,4,1,NLP Engineer,59,25.0,Medium,Statistics,Deep_Learning
+455,97,58,51,44,65,83,72,76,42,55,0,4,2,1,NLP Engineer,71,10.0,Low,Python,Deep_Learning
+456,67,32,63,50,55,81,28,65,55,47,3,2,0,2,Data Engineer,72,16.8,Medium,DSA,Git
+457,16,39,69,52,91,7,86,47,44,19,1,2,3,0,Data Engineer,50,26.9,Medium,NLP,DSA
+458,83,35,67,39,73,13,32,29,60,68,4,1,1,1,Computer Vision Engineer,64,22.4,Medium,Python,DSA
+459,78,20,83,71,66,39,41,58,42,85,2,1,1,3,Data Engineer,61,16.7,Medium,Communication,Machine_Learning
+460,60,55,58,56,24,68,70,71,77,69,1,6,4,0,Data Engineer,77,8.3,Low,Statistics,SQL
+461,32,17,98,29,21,92,28,93,61,85,3,0,0,0,Data Scientist,53,26.2,Medium,SQL,Machine_Learning
+462,24,51,37,25,61,100,29,80,39,44,2,0,3,1,Data Engineer,64,24.1,Medium,DSA,SQL
+463,39,89,29,50,20,82,44,39,70,22,0,0,4,1,Data Analyst,65,15.2,Medium,Machine_Learning,SQL
+464,47,51,86,39,24,55,46,100,71,46,4,1,1,1,Data Scientist,61,20.2,Medium,Cloud,NLP
+465,49,69,69,55,76,75,43,20,59,38,3,0,0,1,Data Analyst,73,9.7,Low,NLP,Cloud
+466,72,57,26,17,72,79,40,20,5,97,1,1,0,1,Data Analyst,58,16.7,Medium,Communication,SQL
+467,69,12,46,66,58,69,58,52,51,80,1,2,2,0,AI/ML Engineer,62,17.9,Medium,Communication,Machine_Learning
+468,80,58,35,33,54,88,71,62,59,68,1,1,3,1,AI/ML Engineer,70,14.1,Low,DSA,Deep_Learning
+469,41,60,89,35,56,47,58,55,100,89,1,1,1,0,Data Analyst,70,2.9,Low,Statistics,Python
+470,35,58,51,57,55,100,24,9,63,46,2,3,3,0,Data Analyst,71,15.0,Medium,DSA,Cloud
+471,23,62,52,64,68,50,66,53,72,62,4,3,0,0,Data Engineer,67,15.7,Medium,Statistics,Python
+472,56,78,65,21,58,100,82,36,71,22,3,4,5,0,NLP Engineer,68,17.7,Medium,DSA,Deep_Learning
+473,5,14,54,59,23,30,55,77,27,64,5,2,1,0,AI/ML Engineer,55,32.4,Medium,Cloud,Python
+474,39,54,57,42,43,62,77,41,35,69,3,0,0,1,NLP Engineer,60,18.4,Medium,Git,NLP
+475,47,45,60,59,41,64,51,41,44,77,1,2,2,2,Cloud Engineer,71,12.6,Low,Communication,Cloud
+476,26,73,29,56,19,63,71,18,24,25,4,0,2,1,AI/ML Engineer,53,32.7,Medium,Machine_Learning,Python
+477,54,28,91,21,60,41,56,25,76,33,3,1,1,0,Data Analyst,65,8.4,Low,SQL,Cloud
+478,35,14,79,100,45,99,49,23,48,79,4,1,3,0,AI/ML Engineer,63,22.6,Medium,Deep_Learning,Machine_Learning
+479,5,64,89,35,31,69,28,74,30,96,3,0,1,0,Data Engineer,67,17.5,Medium,Communication,Python
+480,60,44,62,67,74,77,59,33,70,50,3,0,0,2,Data Analyst,63,5.6,Low,DSA,SQL
+481,56,67,9,85,85,45,100,83,82,82,3,1,5,0,AI/ML Engineer,73,13.3,Low,Git,SQL
+482,92,68,58,38,48,35,55,59,93,41,3,2,2,2,Data Analyst,84,4.6,Low,Statistics,SQL
+483,95,9,24,45,89,67,26,71,34,75,4,1,0,2,Data Analyst,69,15.2,Medium,Python,SQL
+484,80,69,81,22,95,5,37,44,68,60,0,0,3,0,Data Scientist,58,18.5,Medium,NLP,DSA
+485,43,100,55,49,34,50,38,36,17,96,0,3,5,0,Data Scientist,58,25.8,Medium,Machine_Learning,Statistics
+486,54,84,29,67,41,92,37,81,59,61,2,0,1,1,Data Analyst,62,9.1,Low,DSA,SQL
+487,39,65,23,15,47,72,31,75,63,91,3,1,1,1,NLP Engineer,62,22.0,Medium,Communication,Deep_Learning
+488,44,80,54,69,50,31,75,84,100,61,0,4,1,0,NLP Engineer,64,11.6,Low,Statistics,NLP
+489,49,77,81,53,23,57,43,60,52,83,2,0,0,0,Backend Developer,67,10.6,Low,Communication,Git
+490,23,95,70,60,64,88,35,52,45,28,2,2,0,2,Data Engineer,61,20.7,Medium,Machine_Learning,Python
+491,36,49,35,34,28,70,50,44,61,21,4,2,1,0,Backend Developer,64,20.4,Medium,DSA,Communication
+492,28,89,73,74,50,15,100,65,58,47,6,2,1,1,Cloud Engineer,65,15.2,Medium,Git,DSA
+493,5,92,27,48,46,83,88,25,86,86,6,1,4,1,Data Analyst,82,15.3,Medium,Machine_Learning,Python
+494,42,47,100,76,46,18,85,82,48,63,3,2,0,0,Computer Vision Engineer,65,14.1,Low,SQL,DSA
+495,27,97,26,67,72,11,15,84,33,33,1,2,0,0,NLP Engineer,48,26.1,Medium,Machine_Learning,Python
+496,19,75,24,30,63,67,26,46,41,44,3,4,1,0,Data Scientist,61,29.7,Medium,Machine_Learning,Python
+497,43,74,72,52,42,16,55,33,30,76,1,2,0,1,Cloud Engineer,60,19.7,Medium,Communication,Cloud
+498,83,100,80,53,79,34,37,53,57,25,2,5,3,2,Data Analyst,84,6.4,Low,Machine_Learning,Communication
+499,80,45,45,53,59,85,27,37,24,65,6,2,1,0,AI/ML Engineer,66,22.5,Medium,DSA,Git
+500,36,38,10,71,93,68,12,54,49,64,2,0,0,0,Cloud Engineer,50,21.2,Medium,NLP,Git
+501,61,52,55,62,70,74,48,52,59,51,2,2,2,1,Data Engineer,68,14.7,Low,DSA,SQL
+502,64,50,59,63,68,60,27,33,42,49,1,4,1,0,AI/ML Engineer,65,21.8,Medium,NLP,Git
+503,36,69,53,65,62,45,53,47,58,36,1,1,0,0,Computer Vision Engineer,56,16.6,Medium,Machine_Learning,Python
+504,40,50,93,39,41,90,45,92,76,51,3,0,0,1,Computer Vision Engineer,57,15.5,Medium,SQL,Deep_Learning
+505,100,36,64,41,46,16,83,49,50,100,3,2,4,1,Backend Developer,88,10.1,Low,Python,DSA
+506,90,98,61,84,58,37,49,23,52,59,6,1,1,0,Data Engineer,69,17.4,Medium,Machine_Learning,Cloud
+507,96,66,89,44,82,46,34,33,5,75,2,1,2,1,Computer Vision Engineer,59,19.7,Medium,Python,Statistics
+508,18,53,56,64,37,65,47,34,68,89,4,0,1,0,Data Engineer,67,18.2,Medium,Communication,Python
+509,65,19,57,59,46,62,61,53,32,54,5,0,1,2,Data Engineer,73,18.7,Medium,Python,Machine_Learning
+510,5,57,44,47,79,72,87,32,47,72,0,0,2,0,NLP Engineer,59,18.4,Medium,Git,Python
+511,22,28,66,19,41,82,40,27,70,100,2,0,2,0,AI/ML Engineer,57,28.7,Medium,Communication,Python
+512,20,57,70,74,69,77,92,80,60,52,3,1,3,0,Backend Developer,78,8.3,Low,Git,Python
+513,57,53,57,87,36,87,15,70,89,5,3,2,0,0,Data Engineer,60,20.3,Medium,Statistics,Git
+514,59,71,46,57,88,48,45,28,91,44,1,0,3,0,NLP Engineer,69,14.4,Low,Statistics,Cloud
+515,60,61,43,82,35,18,30,79,66,85,2,2,2,0,Computer Vision Engineer,70,13.6,Low,Communication,DSA
+516,37,89,20,47,100,59,54,49,84,33,2,2,0,0,Computer Vision Engineer,62,19.1,Medium,NLP,Deep_Learning
+517,46,90,86,51,72,5,80,30,22,14,1,1,0,2,Data Scientist,54,26.0,Medium,Machine_Learning,DSA
+518,37,54,70,57,52,82,25,67,17,36,2,0,1,0,Backend Developer,53,18.3,Medium,DSA,Git
+519,100,71,30,19,39,59,37,41,56,47,2,0,2,0,Computer Vision Engineer,58,19.1,Medium,Python,Deep_Learning
+520,66,55,81,95,97,26,46,42,64,62,2,3,0,0,Data Scientist,63,13.9,Low,NLP,DSA
+521,66,88,63,69,53,43,66,90,41,49,1,3,4,1,Data Analyst,85,4.8,Low,Cloud,SQL
+522,62,49,45,38,46,81,58,28,79,95,5,1,2,3,Data Engineer,80,15.5,Medium,Communication,Cloud
+523,26,100,39,77,76,27,59,76,27,57,4,2,2,0,NLP Engineer,71,16.4,Medium,Machine_Learning,Python
+524,89,60,69,87,48,42,75,67,51,87,2,2,3,0,Backend Developer,79,5.7,Low,Python,DSA
+525,29,100,76,5,86,21,67,5,45,86,4,3,2,1,Cloud Engineer,71,21.3,Medium,Machine_Learning,Cloud
+526,79,54,58,81,20,48,86,77,63,20,0,1,0,0,Data Scientist,54,18.3,Medium,Git,NLP
+527,100,36,16,81,39,53,40,72,23,5,4,4,2,0,Data Engineer,68,27.5,Medium,Python,SQL
+528,49,70,44,43,70,71,46,18,50,69,1,0,0,1,Data Analyst,69,11.8,Low,DSA,SQL
+529,69,63,50,65,41,37,39,86,36,46,1,0,0,1,Data Scientist,52,21.4,Medium,Cloud,NLP
+530,76,55,69,44,74,60,23,79,52,49,1,2,3,2,Data Scientist,71,15.8,Medium,Cloud,Git
+531,68,79,11,87,66,53,41,92,76,66,1,3,2,0,Computer Vision Engineer,73,9.5,Low,Cloud,SQL
+532,71,59,90,52,72,52,80,72,47,46,0,1,2,0,AI/ML Engineer,67,12.6,Low,SQL,Deep_Learning
+533,78,82,41,76,100,58,53,49,31,74,0,1,5,0,Cloud Engineer,70,13.4,Low,NLP,Cloud
+534,39,23,61,21,85,51,82,44,61,60,1,1,3,1,Computer Vision Engineer,65,21.2,Medium,NLP,Deep_Learning
+535,5,61,23,44,56,48,40,41,50,49,5,1,0,0,AI/ML Engineer,53,31.3,Medium,Machine_Learning,Python
+536,64,45,56,65,89,43,58,75,22,100,1,0,1,1,Computer Vision Engineer,68,13.3,Low,Communication,Machine_Learning
+537,46,76,71,48,52,45,51,33,29,78,7,2,3,1,Data Scientist,71,21.4,Medium,Communication,Statistics
+538,71,63,57,68,50,45,100,21,72,42,3,4,0,0,Backend Developer,68,14.4,Low,Git,Cloud
+539,72,75,39,95,41,69,60,8,68,65,3,2,2,0,Backend Developer,69,14.7,Low,Deep_Learning,Cloud
+540,48,51,56,47,100,48,42,58,77,38,4,1,2,1,NLP Engineer,71,15.2,Medium,NLP,Python
+541,53,83,25,55,72,76,72,22,81,57,1,2,1,0,Data Engineer,60,16.6,Medium,Machine_Learning,SQL
+542,53,53,89,41,49,16,64,61,56,50,5,0,1,2,Cloud Engineer,72,15.0,Medium,SQL,DSA
+543,36,55,70,83,42,26,72,13,54,57,2,2,5,0,AI/ML Engineer,66,22.7,Medium,Deep_Learning,Cloud
+544,82,59,64,31,18,69,89,31,92,62,3,1,0,0,Computer Vision Engineer,64,13.4,Low,Statistics,Deep_Learning
+545,94,25,50,61,5,51,29,30,49,13,4,4,5,0,Data Analyst,64,17.9,Medium,Python,Communication
+546,5,54,65,25,64,70,70,65,27,52,2,0,0,1,NLP Engineer,57,20.8,Medium,DSA,Python
+547,36,63,61,20,55,69,46,5,52,89,2,0,3,0,Backend Developer,68,16.8,Medium,Communication,Cloud
+548,46,73,44,52,42,22,35,60,62,58,3,2,1,1,AI/ML Engineer,60,23.8,Medium,Machine_Learning,DSA
+549,63,72,68,56,63,42,48,33,91,68,2,1,0,0,Data Engineer,61,13.8,Low,Statistics,Cloud
+550,44,49,63,88,64,59,54,29,50,100,2,2,3,2,Data Scientist,72,18.3,Medium,Communication,Cloud
+551,23,21,41,46,27,56,30,63,83,62,3,3,0,0,Data Scientist,57,29.1,Medium,Statistics,Machine_Learning
+552,64,67,40,32,36,45,47,100,79,79,2,0,0,0,Backend Developer,68,10.4,Low,Cloud,Git
+553,88,50,20,21,54,47,56,46,84,56,3,2,2,1,Cloud Engineer,72,15.5,Medium,Python,Cloud
+554,86,67,30,58,54,62,58,64,48,56,4,0,3,1,Data Analyst,77,6.7,Low,Python,SQL
+555,48,67,38,29,52,63,9,86,26,45,1,4,1,0,Data Analyst,62,15.4,Medium,Cloud,SQL
+556,77,76,64,29,54,77,26,70,100,79,3,3,4,0,Backend Developer,88,7.5,Low,Statistics,Git
+557,64,35,47,100,56,10,46,31,59,35,1,3,0,1,NLP Engineer,57,23.6,Medium,Deep_Learning,DSA
+558,100,69,63,26,91,38,52,95,8,16,3,4,1,0,Backend Developer,69,17.3,Medium,Python,Communication
+559,75,79,55,62,62,83,64,70,76,100,1,0,2,0,Cloud Engineer,71,4.1,Low,Communication,Git
+560,59,44,55,56,38,34,71,74,69,90,4,0,1,0,Data Analyst,73,5.3,Low,Communication,SQL
+561,61,80,59,59,55,74,42,21,70,64,2,1,1,0,Cloud Engineer,69,13.2,Low,Machine_Learning,Cloud
+562,24,41,58,83,37,78,37,36,74,76,3,0,1,1,NLP Engineer,66,20.2,Medium,Deep_Learning,Python
+563,33,72,56,61,39,63,41,45,20,37,1,0,2,0,Data Engineer,58,23.0,Medium,Machine_Learning,Statistics
+564,74,50,88,34,44,66,32,31,58,75,1,6,0,0,Data Analyst,76,4.9,Low,SQL,Cloud
+565,81,7,57,56,58,72,56,45,40,85,1,1,1,0,Data Analyst,66,9.6,Low,Communication,Machine_Learning
+566,65,59,45,46,80,48,64,35,45,27,4,2,2,0,Data Analyst,82,10.3,Low,NLP,SQL
+567,30,42,70,36,26,66,54,50,81,80,3,2,1,1,Computer Vision Engineer,66,16.8,Medium,Statistics,Deep_Learning
+568,21,96,10,58,47,43,70,50,8,18,1,0,2,0,Data Engineer,51,30.5,Medium,Machine_Learning,SQL
+569,54,58,46,25,25,67,73,45,64,44,2,2,2,0,Backend Developer,71,13.1,Low,Git,Cloud
+570,56,71,45,22,100,51,28,59,53,20,3,3,1,0,Backend Developer,65,20.1,Medium,NLP,Communication
+571,90,40,85,58,39,52,26,60,56,67,3,4,2,0,Cloud Engineer,78,12.4,Low,Python,Git
+572,49,70,81,26,57,54,60,55,32,88,5,2,3,1,Computer Vision Engineer,87,15.4,Medium,Communication,Deep_Learning
+573,59,64,86,76,51,61,22,93,71,12,2,1,4,1,Computer Vision Engineer,71,15.1,Medium,Cloud,Communication
+574,38,77,27,34,30,21,58,82,51,20,5,0,1,1,Computer Vision Engineer,65,22.9,Medium,Cloud,Deep_Learning
+575,34,64,89,100,87,74,64,31,53,50,1,2,4,0,Data Scientist,74,13.9,Low,Deep_Learning,Python
+576,39,37,56,49,35,59,63,47,76,61,3,2,2,3,Computer Vision Engineer,70,16.0,Medium,Statistics,Machine_Learning
+577,69,72,100,76,46,20,67,47,63,38,2,1,0,0,Computer Vision Engineer,61,12.8,Low,SQL,DSA
+578,95,99,33,98,33,60,26,55,64,51,1,1,5,0,Data Engineer,70,16.6,Medium,Machine_Learning,SQL
+579,14,93,48,49,72,38,50,38,15,56,3,2,1,0,Data Engineer,52,26.6,Medium,Machine_Learning,Python
+580,43,99,52,60,53,36,92,43,29,45,1,3,0,2,Data Scientist,53,21.9,Medium,Machine_Learning,Statistics
+581,52,46,54,35,66,93,68,30,65,59,4,4,0,1,NLP Engineer,75,16.3,Medium,DSA,Deep_Learning
+582,82,37,21,57,56,90,73,37,75,26,1,1,0,0,NLP Engineer,51,19.1,Medium,DSA,SQL
+583,38,70,87,60,75,57,58,40,99,72,3,3,3,0,Cloud Engineer,82,12.5,Low,Statistics,Cloud
+584,60,83,55,45,79,58,38,82,59,55,1,3,1,2,Backend Developer,75,11.2,Low,Machine_Learning,Git
+585,70,28,67,45,39,60,21,53,73,79,2,1,0,1,Data Engineer,60,15.6,Medium,Communication,Git
+586,30,53,42,66,60,73,31,47,50,65,2,2,2,0,Data Engineer,61,20.7,Medium,DSA,Git
+587,79,51,25,47,42,35,74,30,59,24,3,3,5,0,Cloud Engineer,66,19.3,Medium,Python,Cloud
+588,21,63,20,18,38,59,19,58,32,35,2,3,0,2,Data Engineer,59,31.0,Medium,Machine_Learning,SQL
+589,81,74,49,46,52,34,51,31,76,81,3,1,0,1,Data Analyst,71,7.5,Low,Python,SQL
+590,84,57,10,49,79,70,65,34,19,79,3,1,0,0,Backend Developer,59,16.2,Medium,Python,SQL
+591,41,100,29,72,65,86,52,19,78,49,3,2,0,1,Data Scientist,69,18.5,Medium,Machine_Learning,SQL
+592,59,76,59,57,62,50,58,66,38,17,2,0,1,0,Data Scientist,49,18.8,Medium,Machine_Learning,Communication
+593,83,6,58,60,90,62,87,37,18,40,6,4,2,0,NLP Engineer,74,17.1,Medium,NLP,Machine_Learning
+594,96,63,67,66,75,62,63,82,40,35,3,3,0,0,Backend Developer,68,8.6,Low,Python,Communication
+595,35,70,70,86,51,85,68,81,100,52,3,1,0,0,Data Analyst,69,5.0,Low,Statistics,Python
+596,82,76,100,44,69,28,50,21,68,47,1,3,0,1,Cloud Engineer,56,17.9,Medium,SQL,Cloud
+597,33,59,39,34,55,18,53,70,84,80,0,4,4,0,Computer Vision Engineer,64,19.4,Medium,Statistics,Deep_Learning
+598,55,87,61,77,16,71,55,75,76,57,2,1,1,0,Cloud Engineer,69,7.8,Low,Machine_Learning,Git
+599,83,79,51,46,54,58,48,78,22,39,1,4,0,2,Data Scientist,64,18.3,Medium,Python,Statistics
+600,72,86,59,70,41,26,46,48,59,38,3,1,1,2,Backend Developer,70,17.1,Medium,Machine_Learning,DSA
+601,90,38,20,73,85,84,35,60,74,62,5,0,1,2,Data Analyst,79,9.2,Low,Python,SQL
+602,39,52,23,46,55,47,31,30,72,90,1,2,4,0,Data Analyst,60,14.2,Low,Communication,SQL
+603,44,48,78,60,70,80,43,58,50,78,0,4,2,0,Data Engineer,72,13.4,Low,DSA,Git
+604,30,100,47,100,73,89,73,62,100,43,0,3,0,0,Backend Developer,70,13.0,Low,Machine_Learning,Python
+605,75,45,41,43,100,86,50,52,74,73,4,1,5,2,Cloud Engineer,92,9.4,Low,NLP,Cloud
+606,51,56,83,42,67,62,56,76,40,42,2,2,3,0,Data Scientist,69,16.4,Medium,SQL,Statistics
+607,98,18,36,76,72,55,29,29,38,30,3,2,0,0,Data Engineer,47,28.5,Medium,Python,Cloud
+608,45,42,41,26,29,36,69,46,50,84,4,0,0,0,Computer Vision Engineer,64,20.4,Medium,Communication,Deep_Learning
+609,38,80,86,55,47,32,71,45,44,55,3,1,2,0,Data Analyst,76,7.1,Low,SQL,Python
+610,40,33,34,72,33,60,47,30,74,71,7,3,3,0,AI/ML Engineer,64,25.1,Medium,Statistics,Machine_Learning
+611,79,5,65,49,5,29,45,74,51,58,5,0,0,0,Backend Developer,57,15.9,Medium,Python,DSA
+612,47,5,38,64,37,64,57,52,84,41,1,1,1,1,Data Engineer,59,22.1,Medium,Statistics,Machine_Learning
+613,60,49,46,25,29,63,39,34,100,100,4,1,3,2,Backend Developer,79,14.3,Low,Statistics,Cloud
+614,49,79,23,49,77,56,38,85,28,55,1,2,1,0,Cloud Engineer,63,17.1,Medium,Cloud,Git
+615,54,47,74,29,67,62,23,37,30,47,4,2,0,1,Data Scientist,53,26.0,Medium,SQL,Git
+616,63,53,78,73,69,62,59,26,50,59,0,0,0,1,Cloud Engineer,56,13.1,Low,SQL,Cloud
+617,56,53,70,32,72,46,81,20,65,50,3,1,3,2,Computer Vision Engineer,68,19.3,Medium,Git,Deep_Learning
+618,43,51,38,24,85,68,18,73,76,58,4,1,0,0,Cloud Engineer,72,14.7,Low,NLP,Git
+619,50,36,98,66,75,66,64,35,45,57,1,1,0,1,NLP Engineer,60,13.7,Low,SQL,Machine_Learning
+620,34,51,100,88,17,64,55,74,38,36,0,1,4,1,Cloud Engineer,65,14.9,Low,SQL,Communication
+621,63,27,44,100,26,56,100,37,5,5,1,2,0,0,Backend Developer,51,22.8,Medium,Deep_Learning,Communication
+622,48,64,31,41,50,91,31,23,65,54,5,3,3,1,Data Scientist,76,25.8,Medium,DSA,SQL
+623,14,60,62,78,27,28,90,24,100,34,4,0,0,0,Computer Vision Engineer,49,21.2,Medium,Statistics,Python
+624,67,80,77,65,56,70,62,79,76,32,2,1,3,1,Cloud Engineer,74,8.2,Low,Machine_Learning,Communication
+625,34,51,51,57,25,52,77,5,49,17,3,1,0,0,Data Engineer,49,25.9,Medium,Git,Cloud
+626,46,70,97,85,33,10,100,100,59,26,3,0,0,1,Computer Vision Engineer,68,14.3,Low,Git,DSA
+627,62,62,83,83,79,83,91,33,48,71,0,1,4,0,NLP Engineer,69,8.1,Low,Git,Cloud
+628,47,38,59,46,49,72,46,73,10,22,2,0,5,0,AI/ML Engineer,46,27.0,Medium,Cloud,Statistics
+629,43,61,84,91,61,19,43,46,63,56,2,2,0,2,Data Analyst,73,7.5,Low,Deep_Learning,Python
+630,77,53,17,75,5,100,90,49,55,62,6,4,0,0,Computer Vision Engineer,67,12.9,Low,DSA,SQL
+631,33,67,5,66,51,77,69,56,30,32,2,0,3,2,Data Scientist,70,26.0,Medium,DSA,SQL
+632,63,55,10,27,48,29,43,42,43,88,5,0,2,2,Data Analyst,75,14.0,Low,Communication,SQL
+633,75,67,29,45,99,62,32,51,14,12,7,1,1,1,NLP Engineer,64,21.0,Medium,NLP,Communication
+634,62,56,50,60,56,50,77,22,34,37,4,0,5,0,Data Scientist,59,23.8,Medium,Git,Cloud
+635,78,82,92,70,81,49,79,72,67,19,0,0,1,1,Data Analyst,72,3.1,Low,SQL,Communication
+636,100,53,37,64,71,58,92,66,76,58,4,1,0,0,Data Scientist,72,10.8,Low,Python,SQL
+637,50,56,46,61,61,34,24,78,60,75,2,0,0,1,Cloud Engineer,70,13.8,Low,Cloud,Git
+638,40,24,67,91,87,72,88,56,69,39,2,1,1,3,AI/ML Engineer,70,15.9,Medium,Deep_Learning,Machine_Learning
+639,8,41,45,58,49,27,27,18,60,59,6,0,0,0,Computer Vision Engineer,47,28.7,Medium,Statistics,Python
+640,65,22,22,50,51,75,72,69,49,23,2,1,4,2,NLP Engineer,69,21.3,Medium,DSA,Machine_Learning
+641,49,30,59,78,43,52,61,66,49,46,2,1,0,1,NLP Engineer,63,16.1,Medium,Deep_Learning,NLP
+642,66,92,48,43,56,78,53,69,51,69,1,1,3,0,Cloud Engineer,75,8.0,Low,Machine_Learning,Git
+643,33,21,5,31,100,66,98,48,44,94,4,1,0,2,Data Analyst,62,16.4,Medium,NLP,SQL
+644,76,40,17,63,5,86,100,25,79,63,2,2,3,1,Computer Vision Engineer,64,17.7,Medium,Git,Cloud
+645,68,88,30,43,85,29,44,18,86,42,3,0,4,0,Data Scientist,61,22.1,Medium,Machine_Learning,Cloud
+646,50,54,42,88,46,63,27,60,45,37,4,1,3,0,Computer Vision Engineer,82,15.9,Medium,Deep_Learning,Git
+647,64,5,72,100,55,49,44,68,48,70,2,1,2,1,Data Analyst,73,8.2,Low,Deep_Learning,Machine_Learning
+648,46,62,64,69,33,27,64,41,19,77,6,2,1,0,AI/ML Engineer,68,23.5,Medium,Communication,DSA
+649,72,48,55,45,5,37,53,14,28,47,4,1,0,2,Computer Vision Engineer,57,24.6,Medium,Python,Cloud
+650,40,78,49,45,55,41,63,43,66,83,2,2,5,0,Data Engineer,68,15.4,Medium,Communication,Cloud
+651,40,46,98,92,22,26,31,91,41,21,6,0,3,2,Backend Developer,72,19.6,Medium,SQL,Communication
+652,85,49,38,62,51,61,81,73,56,66,0,4,0,1,Backend Developer,81,6.7,Low,Python,SQL
+653,69,45,18,93,80,54,36,44,60,49,3,2,3,0,Data Scientist,75,20.5,Medium,Deep_Learning,SQL
+654,65,53,80,84,56,35,76,55,47,22,2,2,3,1,Data Scientist,78,18.2,Medium,Deep_Learning,Communication
+655,59,24,73,50,40,42,85,68,21,63,1,2,0,0,NLP Engineer,59,19.6,Medium,Git,Machine_Learning
+656,50,7,61,38,20,56,30,78,88,50,4,1,1,0,Cloud Engineer,71,15.4,Medium,Statistics,Git
+657,83,86,41,22,71,62,31,39,39,58,4,0,2,0,Cloud Engineer,66,17.0,Medium,Machine_Learning,Git
+658,65,32,60,80,76,57,49,32,50,25,4,2,1,1,Cloud Engineer,69,17.5,Medium,Deep_Learning,Cloud
+659,47,51,55,71,35,40,67,16,54,37,1,2,4,0,AI/ML Engineer,58,25.7,Medium,Deep_Learning,Cloud
+660,42,70,34,50,86,43,55,53,51,93,1,2,2,0,AI/ML Engineer,63,19.7,Medium,Communication,Python
+661,91,97,48,56,36,38,60,17,74,59,6,0,1,2,Cloud Engineer,83,15.8,Medium,Machine_Learning,Cloud
+662,60,69,15,64,43,77,15,69,63,63,3,2,1,0,NLP Engineer,69,17.6,Medium,DSA,Git
+663,44,70,62,65,35,84,62,74,46,78,2,3,0,0,Data Analyst,73,6.3,Low,DSA,Python
+664,77,58,70,42,22,72,83,29,74,94,1,0,2,0,AI/ML Engineer,62,16.2,Medium,Communication,Cloud
+665,61,57,67,87,74,67,72,61,33,88,2,1,0,1,Data Analyst,73,5.4,Low,Communication,Statistics
+666,53,59,72,44,83,80,53,78,5,86,1,1,2,2,Backend Developer,76,10.1,Low,Communication,Statistics
+667,40,56,38,67,54,44,80,12,67,42,3,1,3,1,Data Analyst,69,12.9,Low,Git,SQL
+668,40,52,47,51,39,47,100,34,49,46,1,1,3,1,NLP Engineer,62,21.5,Medium,Git,NLP
+669,51,100,64,45,58,20,53,30,13,100,2,3,0,0,Computer Vision Engineer,56,20.8,Medium,Machine_Learning,Deep_Learning
+670,27,100,62,41,36,44,100,46,76,46,1,4,0,1,Data Analyst,74,8.0,Low,Machine_Learning,Python
+671,51,42,59,38,26,89,53,94,11,22,4,0,1,0,Cloud Engineer,63,15.3,Medium,Cloud,Communication
+672,87,87,64,36,80,55,56,27,32,36,2,0,0,1,Data Analyst,66,9.1,Low,Python,Cloud
+673,65,42,62,23,77,43,62,60,10,74,1,0,2,0,NLP Engineer,56,17.8,Medium,NLP,Deep_Learning
+674,45,70,72,57,75,100,94,43,22,46,4,0,3,0,AI/ML Engineer,65,17.2,Medium,DSA,Python
+675,87,46,61,66,39,52,32,46,74,14,5,0,1,0,Data Scientist,64,22.4,Medium,Python,Communication
+676,65,23,77,65,28,52,53,85,39,49,6,4,1,3,Cloud Engineer,72,11.9,Low,Cloud,Git
+677,28,92,73,30,79,44,79,22,59,27,2,1,1,0,AI/ML Engineer,53,23.0,Medium,Machine_Learning,Python
+678,32,66,89,71,74,62,20,31,65,55,5,1,0,0,Data Engineer,68,17.1,Medium,SQL,Git
+679,51,54,54,54,36,100,60,42,64,35,2,2,5,1,Cloud Engineer,77,13.3,Low,DSA,Cloud
+680,56,52,55,27,46,89,79,42,55,77,3,0,2,1,Data Analyst,79,6.2,Low,DSA,SQL
+681,88,23,9,61,59,29,33,37,86,44,1,3,1,0,Data Analyst,60,16.0,Medium,Python,SQL
+682,62,80,36,78,58,80,30,41,65,45,2,4,1,2,Computer Vision Engineer,64,13.3,Low,Machine_Learning,Git
+683,42,54,48,78,71,6,99,48,95,71,0,3,3,0,Cloud Engineer,69,14.5,Low,Git,DSA
+684,60,23,55,81,53,26,59,44,81,75,4,2,2,0,Data Scientist,65,20.5,Medium,Deep_Learning,Machine_Learning
+685,47,74,91,31,35,54,37,50,43,32,5,1,1,0,Data Scientist,55,24.7,Medium,SQL,NLP
+686,99,56,58,68,51,77,65,41,86,24,4,0,0,0,NLP Engineer,65,12.7,Low,Python,Communication
+687,68,75,40,71,21,39,22,50,44,46,5,3,1,1,Data Engineer,66,22.5,Medium,Machine_Learning,Git
+688,43,41,48,51,43,56,76,70,41,39,2,3,0,0,NLP Engineer,57,19.3,Medium,Git,NLP
+689,40,54,16,55,51,73,77,63,55,63,0,0,1,1,Data Scientist,56,20.3,Medium,Git,SQL
+690,41,37,62,39,46,66,70,41,30,57,1,3,3,1,NLP Engineer,69,20.9,Medium,Git,NLP
+691,74,98,5,99,5,26,15,61,55,73,3,1,3,2,Cloud Engineer,65,21.5,Medium,Deep_Learning,Git
+692,32,47,53,35,58,67,70,5,25,48,4,0,0,0,Backend Developer,60,21.0,Medium,Git,Cloud
+693,45,66,48,5,72,18,45,95,56,80,4,2,0,3,Cloud Engineer,65,13.3,Low,Cloud,DSA
+694,33,77,42,73,73,48,45,63,100,50,4,0,1,0,Data Scientist,63,15.9,Medium,Statistics,Python
+695,71,53,53,32,63,100,57,49,81,79,5,0,0,0,NLP Engineer,65,12.7,Low,DSA,Deep_Learning
+696,30,58,5,24,38,37,83,11,22,65,3,0,2,0,NLP Engineer,48,33.0,Medium,Git,SQL
+697,97,25,61,57,41,100,63,70,74,48,5,0,2,1,AI/ML Engineer,73,15.0,Medium,DSA,Machine_Learning
+698,71,60,70,62,40,41,22,35,100,37,3,1,1,0,Data Analyst,65,8.5,Low,Statistics,Git
+699,64,72,72,26,82,65,68,34,72,15,5,2,2,0,Data Analyst,83,7.5,Low,NLP,Communication
+700,64,50,46,67,14,50,52,34,79,31,7,1,3,1,NLP Engineer,70,22.2,Medium,Statistics,NLP
+701,100,86,5,51,41,21,66,51,28,8,1,2,3,0,Computer Vision Engineer,52,24.1,Medium,Python,Communication
+702,51,75,53,55,43,33,42,37,70,30,1,3,1,0,Computer Vision Engineer,66,19.4,Medium,Machine_Learning,Communication
+703,57,31,32,48,54,57,51,100,24,70,2,1,0,0,Data Scientist,53,24.1,Medium,Cloud,Machine_Learning
+704,45,67,69,45,21,55,55,29,22,53,0,1,4,0,Cloud Engineer,61,19.1,Medium,SQL,Cloud
+705,95,68,75,80,37,48,34,39,45,39,1,0,0,0,Data Engineer,53,17.5,Medium,Python,Git
+706,93,75,27,71,6,5,49,69,63,99,2,0,3,1,Data Scientist,64,22.1,Medium,Communication,NLP
+707,65,91,32,39,59,97,37,56,85,56,1,5,4,1,Backend Developer,70,13.9,Low,DSA,Git
+708,59,39,54,5,65,52,47,60,22,99,5,2,0,2,NLP Engineer,66,21.7,Medium,Communication,Deep_Learning
+709,63,66,19,34,28,60,75,30,75,34,3,1,5,0,Cloud Engineer,68,16.4,Medium,Git,Cloud
+710,81,47,40,58,48,67,18,52,58,48,0,1,3,0,Cloud Engineer,65,15.7,Medium,Python,Git
+711,54,28,74,90,58,80,83,31,15,44,3,1,0,1,AI/ML Engineer,64,21.0,Medium,Deep_Learning,Machine_Learning
+712,50,23,43,51,67,32,37,67,77,41,4,3,1,0,Data Scientist,57,24.9,Medium,Statistics,Machine_Learning
+713,29,80,49,29,53,66,38,9,58,27,1,2,5,0,NLP Engineer,57,26.1,Medium,Machine_Learning,Cloud
+714,40,59,23,92,90,25,12,53,84,54,0,4,2,1,Data Scientist,62,24.4,Medium,Deep_Learning,SQL
+715,51,25,63,72,41,47,81,46,49,53,5,1,0,2,Data Engineer,67,17.6,Medium,Git,Machine_Learning
+716,47,51,62,30,84,5,53,81,24,64,3,1,5,2,Data Engineer,65,21.8,Medium,NLP,DSA
+717,51,18,57,65,78,43,36,43,76,87,2,3,4,0,Data Scientist,66,20.4,Medium,Communication,Machine_Learning
+718,75,33,15,50,48,46,60,88,48,59,5,4,0,0,Data Scientist,69,22.6,Medium,Cloud,SQL
+719,58,78,73,60,78,80,96,82,70,76,5,1,0,1,Data Analyst,86,2.4,Low,Git,Python
+720,31,19,29,82,95,37,44,28,13,72,1,1,0,1,Backend Developer,48,27.2,Medium,NLP,Cloud
+721,42,68,84,42,80,51,67,14,18,74,2,0,4,1,Data Scientist,57,20.5,Medium,SQL,Cloud
+722,36,5,63,56,48,55,68,13,78,46,2,2,0,0,Data Scientist,56,27.3,Medium,Statistics,Machine_Learning
+723,68,52,43,26,52,60,32,51,30,52,3,2,1,1,Data Engineer,58,22.1,Medium,Python,Git
+724,53,5,27,57,68,48,87,79,52,49,4,2,0,2,Data Engineer,69,19.7,Medium,Git,SQL
+725,43,88,5,55,83,58,86,45,51,83,4,1,2,0,Data Analyst,71,12.6,Low,Machine_Learning,SQL
+726,73,81,48,36,74,49,57,47,63,32,1,1,0,0,Data Engineer,61,16.8,Medium,Machine_Learning,SQL
+727,57,52,61,82,54,78,50,69,33,80,2,1,0,0,Cloud Engineer,69,9.1,Low,Deep_Learning,Git
+728,58,40,48,12,37,46,39,47,70,73,2,1,1,0,Cloud Engineer,71,13.7,Low,Communication,Git
+729,23,64,5,14,23,71,21,66,31,52,2,5,0,0,AI/ML Engineer,51,36.1,High,DSA,Deep_Learning
+730,67,95,33,24,90,83,65,54,45,61,2,1,2,0,Data Scientist,73,15.1,Medium,Machine_Learning,SQL
+731,64,38,60,64,51,38,55,52,62,49,0,1,0,1,AI/ML Engineer,53,19.9,Medium,Python,Machine_Learning
+732,42,99,56,100,67,45,81,49,61,24,3,0,3,1,AI/ML Engineer,65,15.4,Medium,Deep_Learning,Communication
+733,49,52,44,22,68,26,41,42,78,53,2,1,1,1,AI/ML Engineer,59,27.6,Medium,Statistics,Deep_Learning
+734,83,84,63,75,51,100,41,95,54,17,2,1,0,1,AI/ML Engineer,68,11.7,Low,DSA,Communication
+735,63,62,67,61,53,26,86,94,47,65,4,2,0,1,Data Scientist,73,15.1,Medium,Cloud,DSA
+736,5,41,65,63,76,42,44,73,61,34,4,1,2,0,NLP Engineer,71,20.0,Medium,NLP,Python
+737,60,84,51,38,84,56,37,87,76,98,1,0,0,0,Computer Vision Engineer,57,10.8,Low,Communication,Deep_Learning
+738,31,91,67,57,63,94,52,53,7,52,2,2,0,1,AI/ML Engineer,62,19.3,Medium,DSA,Python
+739,53,87,56,88,89,34,48,70,20,50,3,1,0,0,Backend Developer,57,17.9,Medium,NLP,DSA
+740,72,52,23,79,88,76,51,79,100,58,2,4,3,1,Data Analyst,80,6.6,Low,Statistics,SQL
+741,50,34,53,65,87,33,44,30,73,19,4,1,0,1,Data Scientist,53,25.2,Medium,NLP,Machine_Learning
+742,32,98,64,66,67,69,53,48,59,82,2,1,4,0,NLP Engineer,78,10.4,Low,Machine_Learning,Python
+743,35,51,70,79,53,69,49,66,60,62,2,0,4,0,Computer Vision Engineer,69,10.8,Low,Deep_Learning,Python
+744,50,68,80,30,20,59,57,42,74,12,4,0,0,1,Backend Developer,63,17.0,Medium,SQL,Communication
+745,66,17,61,86,47,30,66,59,90,65,4,3,0,1,NLP Engineer,78,15.1,Medium,Statistics,Machine_Learning
+746,88,37,44,8,38,42,51,58,63,55,4,3,1,0,NLP Engineer,62,21.7,Medium,Python,Deep_Learning
+747,40,43,32,44,78,35,5,45,28,43,3,1,1,1,Data Analyst,65,19.4,Medium,NLP,SQL
+748,65,50,41,60,57,54,64,45,44,87,4,2,2,1,Computer Vision Engineer,78,13.2,Low,Communication,Machine_Learning
+749,100,72,5,53,74,45,44,46,68,26,1,0,3,1,Cloud Engineer,64,21.4,Medium,Python,Communication
+750,47,35,57,20,32,100,66,38,65,68,4,5,4,0,Data Engineer,79,17.4,Medium,DSA,Cloud
+751,29,88,68,64,91,29,39,69,38,48,3,2,2,1,Data Scientist,76,18.1,Medium,NLP,Python
+752,63,62,100,21,58,45,60,95,97,56,1,0,0,0,Backend Developer,68,8.1,Low,SQL,DSA
+753,98,13,43,56,23,100,56,51,64,63,3,1,2,2,Cloud Engineer,80,11.9,Low,DSA,Cloud
+754,72,70,69,60,16,58,56,73,45,56,1,3,0,0,Data Engineer,65,11.2,Low,Cloud,Git
+755,42,54,5,53,95,65,40,44,63,43,4,1,0,2,Data Engineer,61,23.4,Medium,NLP,SQL
+756,51,57,69,77,69,77,80,57,66,78,2,0,2,0,NLP Engineer,74,7.6,Low,Git,Python
+757,33,20,35,87,48,50,37,68,52,38,3,1,0,1,NLP Engineer,48,23.7,Medium,Deep_Learning,Machine_Learning
+758,90,14,39,70,67,56,59,12,46,39,1,0,1,0,Data Analyst,54,14.5,Low,Python,SQL
+759,53,50,40,47,19,39,50,62,59,27,5,1,2,0,Backend Developer,66,19.0,Medium,Cloud,Communication
+760,73,19,83,56,44,59,72,86,62,35,5,3,2,0,Data Scientist,75,16.7,Medium,Cloud,Machine_Learning
+761,45,25,35,75,53,99,48,65,34,52,2,0,1,1,AI/ML Engineer,56,22.8,Medium,DSA,Machine_Learning
+762,5,88,41,74,50,42,35,11,67,49,2,1,3,1,NLP Engineer,50,25.2,Medium,Machine_Learning,Python
+763,78,74,33,51,34,35,5,32,51,5,2,1,5,1,Backend Developer,60,27.5,Medium,Python,Git
+764,60,91,5,66,43,95,91,56,90,96,4,1,1,0,AI/ML Engineer,68,14.5,Low,Communication,SQL
+765,59,65,5,49,23,54,85,34,39,35,1,0,2,1,Cloud Engineer,66,19.4,Medium,Git,Cloud
+766,76,46,18,38,100,77,88,61,47,76,2,1,0,1,NLP Engineer,70,11.9,Low,NLP,SQL
+767,53,94,36,45,34,74,81,45,23,83,1,0,0,0,Computer Vision Engineer,57,14.3,Low,Machine_Learning,Deep_Learning
+768,42,83,40,45,100,39,72,68,64,61,3,3,1,1,Data Scientist,74,14.3,Low,NLP,SQL
+769,38,55,95,23,5,67,79,6,48,32,3,0,1,2,Cloud Engineer,59,19.0,Medium,SQL,Cloud
+770,81,45,57,54,36,94,21,72,53,99,1,0,4,0,Computer Vision Engineer,70,11.7,Low,Communication,Git
+771,5,24,5,75,60,88,56,100,33,47,5,0,0,0,Data Engineer,54,27.0,Medium,Cloud,SQL
+772,78,54,52,63,71,61,30,62,70,45,3,1,1,0,Data Analyst,66,6.3,Low,Python,SQL
+773,63,84,62,100,58,57,63,64,63,27,2,0,2,2,Computer Vision Engineer,71,7.1,Low,Deep_Learning,Communication
+774,72,65,59,62,94,54,72,100,85,82,6,4,0,2,Data Engineer,86,5.0,Low,Cloud,SQL
+775,32,36,32,61,36,59,100,51,28,22,3,1,2,1,AI/ML Engineer,63,30.3,Medium,Git,Python
+776,100,77,100,60,45,93,79,59,60,56,2,0,0,0,Cloud Engineer,69,6.1,Low,Python,Cloud
+777,20,64,59,59,72,88,53,57,46,68,3,3,3,0,Computer Vision Engineer,73,13.8,Low,DSA,Python
+778,65,54,50,54,37,21,7,52,45,39,4,0,2,1,Data Scientist,61,30.6,Medium,Python,Git
+779,76,31,56,58,26,50,100,36,58,7,1,0,0,2,Data Scientist,53,26.7,Medium,Git,Communication
+780,24,38,48,60,46,31,37,83,61,69,1,2,0,3,NLP Engineer,56,21.6,Medium,Cloud,Python
+781,61,50,79,57,65,41,66,100,67,80,3,2,4,0,AI/ML Engineer,80,11.5,Low,Cloud,Machine_Learning
+782,48,65,73,38,76,67,49,42,51,33,3,2,3,3,NLP Engineer,77,16.3,Medium,NLP,Python
+783,96,88,43,42,52,84,15,42,64,62,1,2,0,0,Cloud Engineer,67,14.8,Low,Python,Git
+784,56,100,74,100,44,53,24,36,99,43,2,2,1,0,AI/ML Engineer,70,17.9,Medium,Machine_Learning,Git
+785,77,77,62,16,30,30,5,45,88,22,7,0,0,2,NLP Engineer,56,27.0,Medium,Statistics,NLP
+786,49,35,41,85,37,58,37,48,54,37,2,2,0,1,Backend Developer,58,19.0,Medium,Deep_Learning,Git
+787,46,46,73,59,63,18,65,30,54,31,1,0,2,1,Computer Vision Engineer,51,22.1,Medium,SQL,DSA
+788,34,100,43,45,68,42,70,38,97,63,1,1,0,0,Backend Developer,55,17.0,Medium,Machine_Learning,Cloud
+789,23,48,21,62,60,22,85,11,91,87,2,2,4,0,Cloud Engineer,65,20.3,Medium,Statistics,Cloud
+790,27,71,57,43,36,64,44,58,11,43,4,1,5,0,Computer Vision Engineer,66,20.9,Medium,Machine_Learning,Python
+791,72,70,44,33,57,57,41,49,22,71,6,3,1,0,Cloud Engineer,76,15.6,Medium,Python,Git
+792,50,29,100,72,59,51,49,82,44,68,5,0,0,0,Data Scientist,63,16.3,Medium,SQL,Machine_Learning
+793,60,49,67,5,81,72,78,76,62,40,1,4,0,2,Backend Developer,78,7.7,Low,NLP,Communication
+794,64,75,48,37,81,54,51,69,6,66,1,0,1,1,Data Engineer,61,17.5,Medium,NLP,Statistics
+795,33,88,27,51,81,74,60,41,55,29,1,1,0,0,Computer Vision Engineer,48,18.4,Medium,Machine_Learning,Python
+796,84,95,63,86,69,77,80,66,80,39,2,2,2,1,Data Analyst,72,3.3,Low,Machine_Learning,SQL
+797,100,65,69,48,41,48,36,34,96,73,2,1,2,0,Computer Vision Engineer,67,13.9,Low,Python,Deep_Learning
+798,81,68,100,52,78,76,65,66,66,39,3,0,2,2,Computer Vision Engineer,80,8.5,Low,SQL,Deep_Learning
+799,78,76,42,82,39,94,67,62,46,41,3,2,4,0,Data Analyst,80,6.6,Low,DSA,SQL
+800,71,35,49,57,65,47,35,94,100,58,0,2,0,0,Data Analyst,63,6.6,Low,Statistics,SQL
+801,87,51,77,47,97,80,66,5,65,27,3,1,3,0,Data Analyst,72,8.1,Low,NLP,Cloud
+802,47,48,52,88,36,80,21,84,75,51,3,2,0,1,Backend Developer,73,13.0,Low,Deep_Learning,Git
+803,57,50,63,57,53,63,30,61,52,39,5,2,2,0,Computer Vision Engineer,73,16.1,Medium,SQL,Git
+804,58,88,29,38,37,92,100,72,73,42,3,1,4,1,Backend Developer,86,10.4,Low,Git,SQL
+805,27,42,100,60,41,71,34,46,12,84,2,1,0,0,Data Engineer,58,20.4,Medium,SQL,Statistics
+806,41,35,81,62,42,35,43,45,36,15,1,1,0,1,Data Engineer,55,25.9,Medium,SQL,Communication
+807,49,23,43,73,74,64,5,37,66,94,1,1,5,1,Data Analyst,66,15.3,Medium,Communication,Git
+808,57,96,27,71,79,34,65,47,52,46,2,2,1,2,NLP Engineer,70,13.3,Low,Machine_Learning,SQL
+809,46,35,76,56,61,41,86,60,6,66,1,3,0,0,Backend Developer,59,14.1,Low,Git,Statistics
+810,48,35,66,73,31,39,72,35,30,28,4,3,0,0,Data Engineer,61,23.7,Medium,Deep_Learning,Cloud
+811,74,79,43,80,69,79,18,45,51,44,3,1,1,1,Computer Vision Engineer,73,12.6,Low,Deep_Learning,Git
+812,55,33,43,51,64,77,44,86,77,67,5,0,0,2,Backend Developer,76,9.3,Low,Cloud,Git
+813,50,56,69,40,55,14,67,50,98,63,0,1,0,1,Data Scientist,47,19.8,Medium,Statistics,DSA
+814,80,61,56,41,58,45,78,50,100,53,3,2,3,0,Data Engineer,77,11.6,Low,Statistics,Cloud
+815,35,52,34,84,43,65,70,100,49,37,3,0,0,1,Backend Developer,64,13.5,Low,Cloud,Python
+816,69,40,11,50,24,60,28,44,59,50,3,2,0,0,NLP Engineer,55,25.4,Medium,Python,NLP
+817,39,45,93,84,41,65,53,60,42,100,4,2,1,0,Data Analyst,73,5.1,Low,Communication,Python
+818,74,78,56,31,89,41,90,85,69,97,5,2,0,0,Computer Vision Engineer,84,8.6,Low,Communication,Deep_Learning
+819,70,66,100,32,63,64,79,67,48,30,4,2,4,0,AI/ML Engineer,71,15.0,Medium,SQL,Deep_Learning
+820,77,5,23,5,100,60,34,65,59,69,1,4,0,0,Backend Developer,60,17.4,Medium,NLP,SQL
+821,84,95,100,56,88,75,77,65,77,23,2,1,0,0,Backend Developer,70,7.5,Low,SQL,Communication
+822,94,34,27,33,58,23,81,80,65,74,4,2,0,1,NLP Engineer,66,18.0,Medium,Python,Machine_Learning
+823,55,41,26,54,65,66,46,32,40,12,4,1,1,0,Backend Developer,66,23.3,Medium,DSA,Communication
+824,40,17,54,28,56,30,84,71,70,80,4,1,3,0,Data Engineer,70,18.0,Medium,Git,Machine_Learning
+825,28,61,66,64,47,70,26,76,44,62,5,3,3,0,Cloud Engineer,81,14.4,Low,Cloud,Git
+826,59,79,81,5,84,79,48,28,36,38,2,1,3,1,Data Analyst,76,10.0,Low,NLP,Cloud
+827,65,52,46,33,82,38,89,48,66,90,1,1,3,0,AI/ML Engineer,66,18.3,Medium,Communication,Deep_Learning
+828,72,55,73,52,78,65,50,57,5,82,0,1,5,0,Data Scientist,59,15.8,Medium,Communication,Statistics
+829,31,53,36,61,57,82,45,63,59,74,0,1,2,2,Computer Vision Engineer,70,14.6,Low,DSA,Python
+830,35,74,66,86,65,65,91,80,36,70,2,0,3,1,AI/ML Engineer,73,9.4,Low,Git,Python
+831,85,50,38,72,47,30,35,57,30,53,1,1,0,0,Data Scientist,51,24.0,Medium,Python,SQL
+832,76,65,82,55,37,50,47,48,45,45,7,2,4,2,Data Analyst,85,3.8,Low,SQL,Statistics
+833,45,41,43,29,76,58,75,82,67,22,0,1,3,2,AI/ML Engineer,62,22.2,Medium,Cloud,Deep_Learning
+834,56,38,69,72,40,52,35,42,61,43,3,2,0,2,Computer Vision Engineer,66,17.7,Medium,Deep_Learning,Machine_Learning
+835,40,52,56,80,14,83,38,98,70,68,3,0,2,2,Data Scientist,71,19.0,Medium,Cloud,NLP
+836,43,50,17,86,78,5,52,54,86,55,1,1,0,1,Computer Vision Engineer,55,20.8,Medium,Deep_Learning,DSA
+837,61,48,53,55,5,66,78,38,60,63,3,0,3,0,NLP Engineer,73,18.2,Medium,Git,NLP
+838,86,66,55,30,75,51,75,45,83,64,2,0,0,0,Computer Vision Engineer,67,11.9,Low,Python,Deep_Learning
+839,50,72,60,41,34,36,63,51,100,55,2,1,0,1,Data Analyst,72,5.8,Low,Statistics,SQL
+840,30,82,57,39,22,44,83,58,51,94,1,2,2,0,Cloud Engineer,69,10.4,Low,Communication,Python
+841,44,100,40,44,63,60,53,53,100,93,5,0,0,1,Backend Developer,65,13.5,Low,Machine_Learning,Cloud
+842,41,32,83,56,24,29,55,46,25,16,0,5,0,0,Cloud Engineer,50,24.1,Medium,SQL,Communication
+843,57,100,60,100,75,26,87,33,41,61,3,2,4,3,Data Analyst,71,9.8,Low,Machine_Learning,SQL
+844,37,36,61,59,60,46,62,64,22,75,1,1,2,1,Backend Developer,62,14.3,Low,Communication,Python
+845,5,56,53,65,40,43,83,47,11,66,2,0,2,1,Data Engineer,61,22.9,Medium,Git,Python
+846,77,63,82,53,72,71,25,89,22,76,0,5,0,0,Data Scientist,57,13.8,Low,Cloud,Statistics
+847,72,55,100,79,32,82,61,99,77,66,1,0,0,1,AI/ML Engineer,66,9.0,Low,SQL,NLP
+848,39,60,48,40,51,70,74,50,63,24,1,3,1,2,AI/ML Engineer,64,21.8,Medium,Git,Python
+849,88,69,44,98,100,79,72,67,75,100,2,2,1,2,Data Scientist,82,5.5,Low,NLP,SQL
+850,71,69,53,25,72,30,55,47,76,31,4,2,0,1,Data Analyst,76,7.4,Low,Statistics,SQL
+851,70,64,80,46,74,70,70,28,58,64,4,0,1,1,Data Scientist,75,11.6,Low,SQL,Cloud
+852,51,49,32,73,83,54,91,42,23,74,0,1,2,2,Backend Developer,66,15.4,Medium,Git,Cloud
+853,62,26,34,13,40,72,54,57,55,25,1,2,2,0,NLP Engineer,49,25.9,Medium,DSA,Deep_Learning
+854,40,63,93,35,44,60,75,59,85,40,1,5,1,0,NLP Engineer,62,16.4,Medium,SQL,NLP
+855,23,75,47,76,38,55,76,28,35,74,2,2,1,0,Data Scientist,61,22.9,Medium,Deep_Learning,Python
+856,58,29,68,95,74,83,46,66,71,48,0,3,0,0,Backend Developer,67,10.5,Low,Deep_Learning,Git
+857,42,69,53,53,18,50,5,60,71,37,3,1,0,2,AI/ML Engineer,51,28.3,Medium,Statistics,Git
+858,82,77,52,46,62,86,65,39,83,87,4,1,1,0,AI/ML Engineer,69,10.7,Low,Communication,Cloud
+859,55,68,30,57,64,44,64,66,43,73,4,1,1,2,Cloud Engineer,72,13.0,Low,Communication,DSA
+860,42,100,65,44,42,46,20,56,73,41,3,1,1,0,NLP Engineer,57,20.4,Medium,Machine_Learning,NLP
+861,57,51,84,29,56,100,65,73,47,68,3,2,1,1,Data Engineer,78,9.6,Low,DSA,Statistics
+862,23,37,34,18,57,42,77,22,43,97,3,0,0,1,Backend Developer,56,19.4,Medium,Communication,Cloud
+863,32,81,47,38,18,45,86,91,47,53,2,3,0,2,Cloud Engineer,71,10.6,Low,Cloud,Python
+864,61,36,77,34,59,65,27,77,50,68,5,2,0,0,AI/ML Engineer,72,18.5,Medium,SQL,Machine_Learning
+865,53,84,41,46,96,53,70,35,78,29,1,0,2,0,Data Scientist,59,17.4,Medium,NLP,SQL
+866,49,60,46,90,65,40,66,48,9,77,0,3,0,2,Cloud Engineer,67,17.0,Medium,Deep_Learning,Statistics
+867,26,53,48,43,69,57,31,30,74,54,1,2,1,0,Backend Developer,54,21.4,Medium,Statistics,Cloud
+868,100,83,81,32,96,5,60,25,64,49,3,2,0,1,Backend Developer,62,17.6,Medium,Python,DSA
+869,95,41,10,26,24,38,81,45,24,22,3,1,3,0,Cloud Engineer,66,22.0,Medium,Python,Communication
+870,29,25,65,95,40,46,56,71,22,5,2,0,1,0,Backend Developer,54,22.6,Medium,Deep_Learning,Communication
+871,52,67,26,75,60,31,80,26,5,74,5,3,0,0,AI/ML Engineer,69,24.8,Medium,Git,Statistics
+872,55,15,62,5,48,76,31,71,82,5,3,2,1,0,Data Scientist,52,30.4,Medium,Statistics,Machine_Learning
+873,56,36,40,49,94,94,10,54,22,31,2,1,1,0,NLP Engineer,46,23.7,Medium,NLP,Git
+874,54,75,48,5,65,8,60,37,60,22,3,2,0,0,Data Scientist,53,29.6,Medium,Machine_Learning,Deep_Learning
+875,100,70,86,72,75,21,42,41,56,53,2,2,1,3,AI/ML Engineer,71,15.5,Medium,Python,DSA
+876,44,63,13,80,39,50,69,55,87,69,3,3,1,0,Backend Developer,68,16.0,Medium,Statistics,SQL
+877,54,52,93,24,42,81,89,52,39,39,4,0,2,0,Cloud Engineer,71,11.1,Low,SQL,Communication
+878,47,60,58,72,76,71,7,82,90,44,2,0,1,0,AI/ML Engineer,61,17.2,Medium,Statistics,Git
+879,56,57,74,55,71,43,29,34,47,58,3,1,3,1,Data Scientist,63,20.6,Medium,SQL,Git
+880,56,13,39,71,64,59,89,62,42,39,1,3,3,1,NLP Engineer,69,17.6,Medium,Git,Machine_Learning
+881,51,72,77,60,83,47,74,41,62,70,4,0,0,0,NLP Engineer,75,8.6,Low,NLP,Python
+882,33,5,23,69,56,91,91,65,62,57,3,0,1,1,Data Engineer,51,20.0,Medium,DSA,SQL
+883,23,32,62,79,48,27,52,49,58,27,5,2,2,0,Backend Developer,68,22.3,Medium,Deep_Learning,Python
+884,64,67,37,43,30,50,100,63,40,45,1,3,0,1,NLP Engineer,56,18.1,Medium,Git,NLP
+885,58,63,37,48,44,55,45,42,58,100,1,2,1,1,Data Analyst,69,8.5,Low,Communication,SQL
+886,55,74,78,48,52,45,74,57,23,64,3,3,1,1,AI/ML Engineer,75,17.2,Medium,SQL,Statistics
+887,84,33,33,59,99,72,79,30,70,29,4,0,0,0,Cloud Engineer,61,14.1,Low,NLP,Cloud
+888,22,78,75,41,91,80,98,97,21,29,3,3,2,1,NLP Engineer,68,15.7,Medium,Git,Python
+889,51,32,55,70,74,51,81,7,100,68,3,4,4,1,Computer Vision Engineer,79,17.1,Medium,Statistics,Cloud
+890,77,81,93,79,55,70,25,37,41,100,5,1,0,1,Data Analyst,72,6.7,Low,Communication,Git
+891,66,25,45,90,92,95,57,76,9,21,3,0,4,1,Data Analyst,70,14.4,Low,DSA,Statistics
+892,94,87,82,82,44,33,57,52,41,28,4,0,3,0,Data Engineer,70,16.2,Medium,Python,Communication
+893,12,19,38,76,63,26,34,61,93,30,2,1,0,2,NLP Engineer,47,27.7,Medium,Statistics,Python
+894,33,43,74,76,40,22,68,19,58,45,3,1,3,2,Cloud Engineer,77,20.5,Medium,Deep_Learning,Cloud
+895,88,18,73,93,60,71,60,78,64,8,3,1,0,2,Backend Developer,71,11.5,Low,Deep_Learning,Communication
+896,37,61,72,39,39,43,19,66,69,57,1,3,4,1,Data Analyst,83,8.4,Low,SQL,Git
+897,61,74,61,55,74,53,38,82,5,56,3,2,0,0,Backend Developer,61,15.4,Medium,Cloud,Statistics
+898,98,40,46,67,88,25,67,83,71,82,1,3,1,0,Backend Developer,69,8.9,Low,Python,DSA
+899,47,59,27,63,59,38,37,35,19,92,3,2,0,0,NLP Engineer,53,23.6,Medium,Communication,Statistics
+900,35,86,46,10,15,100,88,45,74,61,2,1,1,1,Data Analyst,71,10.9,Low,DSA,SQL
+901,72,15,40,90,53,52,53,91,38,70,3,2,5,1,AI/ML Engineer,76,18.2,Medium,Cloud,Machine_Learning
+902,33,26,67,48,71,84,46,81,100,57,0,0,1,0,Computer Vision Engineer,60,17.0,Medium,Statistics,Machine_Learning
+903,61,39,30,19,38,100,20,33,58,100,3,1,1,2,AI/ML Engineer,59,29.2,Medium,DSA,Deep_Learning
+904,51,32,63,5,75,80,5,47,34,47,1,1,4,0,AI/ML Engineer,50,31.1,Medium,DSA,Deep_Learning
+905,65,76,81,61,76,39,79,40,32,52,1,0,1,1,Computer Vision Engineer,64,14.0,Low,SQL,Cloud
+906,61,91,70,53,66,57,47,42,15,38,3,0,1,0,Cloud Engineer,61,19.0,Medium,Machine_Learning,Cloud
+907,5,99,72,46,69,65,66,35,57,62,3,3,0,0,Backend Developer,63,15.7,Medium,Machine_Learning,Python
+908,24,47,24,42,60,72,85,56,47,71,4,2,0,0,Data Engineer,67,18.0,Medium,Git,SQL
+909,35,87,62,30,68,49,14,44,31,61,0,2,2,1,Data Engineer,57,24.4,Medium,Machine_Learning,Git
+910,41,97,55,43,69,29,39,78,52,27,4,0,3,0,Computer Vision Engineer,61,18.9,Medium,Machine_Learning,Deep_Learning
+911,51,73,67,47,64,31,60,68,45,46,1,4,0,0,Data Analyst,63,7.0,Low,Machine_Learning,Python
+912,72,28,5,79,55,92,75,47,53,68,1,2,3,2,Data Scientist,74,20.5,Medium,DSA,SQL
+913,89,44,83,35,5,70,68,70,50,89,4,0,0,0,Data Engineer,64,10.5,Low,Python,NLP
+914,24,53,79,22,88,51,38,18,71,51,1,0,1,0,NLP Engineer,52,22.5,Medium,NLP,Python
+915,100,47,58,63,81,61,30,65,81,34,3,2,2,0,Data Scientist,75,14.2,Low,Python,Machine_Learning
+916,41,60,63,90,5,58,76,45,18,34,1,3,2,2,Backend Developer,65,19.0,Medium,Deep_Learning,Communication
+917,88,5,25,59,62,90,59,53,65,5,1,5,0,1,NLP Engineer,62,22.2,Medium,DSA,Machine_Learning
+918,57,26,55,74,59,62,81,38,50,93,4,0,1,0,Backend Developer,69,10.2,Low,Communication,Cloud
+919,60,54,58,24,17,71,51,74,60,22,0,2,3,2,Computer Vision Engineer,66,17.7,Medium,Cloud,Deep_Learning
+920,43,81,33,88,31,69,100,62,14,48,2,1,3,1,Cloud Engineer,79,15.1,Medium,Git,Statistics
+921,60,47,28,77,72,42,74,53,39,76,1,1,3,0,Data Scientist,67,18.9,Medium,Deep_Learning,SQL
+922,65,83,38,44,57,46,71,59,20,38,0,3,2,0,Computer Vision Engineer,59,17.0,Medium,Machine_Learning,Deep_Learning
+923,50,68,86,81,54,33,48,65,70,80,2,3,0,1,AI/ML Engineer,63,13.2,Low,SQL,DSA
+924,46,55,92,49,76,66,77,36,36,55,1,5,3,0,Computer Vision Engineer,65,16.3,Medium,SQL,Deep_Learning
+925,68,5,60,93,39,11,52,66,53,33,0,1,2,0,Computer Vision Engineer,62,19.2,Medium,Deep_Learning,Machine_Learning
+926,26,82,97,87,75,32,46,60,40,68,4,0,3,0,Cloud Engineer,71,17.8,Medium,SQL,Python
+927,61,40,74,26,48,31,48,42,74,50,3,0,5,2,AI/ML Engineer,62,25.4,Medium,SQL,Deep_Learning
+928,96,32,35,64,43,59,84,53,100,28,2,3,3,0,Computer Vision Engineer,71,15.9,Medium,Statistics,Machine_Learning
+929,79,17,49,64,73,78,53,27,11,51,3,0,3,2,Cloud Engineer,72,19.7,Medium,Python,Cloud
+930,45,29,81,45,67,56,23,70,38,73,7,1,2,1,AI/ML Engineer,65,21.9,Medium,SQL,Machine_Learning
+931,77,62,16,98,47,50,65,53,77,32,0,1,2,1,NLP Engineer,66,15.8,Medium,Deep_Learning,SQL
+932,84,43,59,74,52,40,78,50,68,53,2,2,2,1,AI/ML Engineer,76,14.5,Low,Python,Machine_Learning
+933,71,36,62,5,53,77,64,58,100,16,3,0,2,3,Data Analyst,68,8.1,Low,Statistics,Communication
+934,62,40,75,26,96,57,19,67,65,45,3,2,3,0,Data Engineer,73,17.9,Medium,NLP,Git
+935,84,46,46,45,5,67,53,56,7,54,0,0,2,0,Data Analyst,62,11.9,Low,Python,Statistics
+936,79,59,49,63,33,44,10,65,47,69,1,2,2,1,Data Scientist,63,21.6,Medium,Python,Git
+937,63,70,59,98,44,71,61,72,63,54,6,0,3,1,Backend Developer,83,8.0,Low,Deep_Learning,Communication
+938,45,79,61,23,64,61,42,37,67,53,3,4,2,1,Backend Developer,74,16.1,Medium,Machine_Learning,Cloud
+939,74,93,50,50,25,80,53,54,65,62,2,0,3,1,Data Scientist,73,14.7,Low,Machine_Learning,NLP
+940,70,55,5,44,44,65,43,18,61,49,2,3,0,1,AI/ML Engineer,52,27.7,Medium,Python,SQL
+941,66,90,63,39,65,97,49,39,54,40,0,1,4,0,Data Engineer,68,15.5,Medium,DSA,Cloud
+942,71,41,89,49,46,53,59,31,42,41,2,4,1,1,Data Scientist,68,21.7,Medium,SQL,Machine_Learning
+943,47,58,87,54,77,70,39,70,68,55,5,0,1,1,Backend Developer,75,10.9,Low,SQL,Git
+944,65,71,28,100,55,56,40,66,28,100,5,2,1,0,Data Engineer,76,17.2,Medium,Deep_Learning,SQL
+945,48,48,34,40,62,100,72,47,45,40,4,1,1,2,Cloud Engineer,74,14.9,Low,DSA,Cloud
+946,47,93,100,80,47,55,51,71,36,62,1,4,0,0,Data Engineer,69,11.3,Low,SQL,Git
+947,57,69,46,38,65,20,69,72,37,88,2,0,0,0,Backend Developer,62,13.4,Low,Communication,DSA
+948,48,73,51,54,79,23,29,62,16,41,1,2,0,0,NLP Engineer,56,20.9,Medium,NLP,Statistics
+949,58,5,42,23,24,59,42,47,34,87,1,3,0,2,Data Scientist,49,33.1,Medium,Communication,Machine_Learning
+950,43,87,37,46,54,59,42,56,67,9,0,1,0,0,Backend Developer,52,21.4,Medium,Machine_Learning,Communication
+951,99,71,65,20,80,73,82,34,46,21,0,1,4,0,Backend Developer,71,11.6,Low,Python,Communication
+952,75,43,72,63,71,28,88,45,30,45,1,1,0,3,Data Scientist,69,19.3,Medium,Git,Machine_Learning
+953,74,100,68,28,84,66,56,80,100,51,4,1,2,1,Backend Developer,83,6.5,Low,Machine_Learning,Git
+954,64,75,68,100,66,9,74,18,65,16,3,0,0,0,AI/ML Engineer,54,20.5,Medium,Deep_Learning,DSA
+955,32,67,49,39,24,70,80,31,52,34,4,1,4,3,Cloud Engineer,82,15.7,Medium,Git,Cloud
+956,52,78,97,64,27,58,42,100,71,64,0,3,0,0,Data Scientist,66,12.5,Low,Cloud,NLP
+957,32,79,56,38,65,41,26,78,82,66,5,1,2,0,Backend Developer,74,16.1,Medium,Statistics,Git
+958,61,20,55,45,60,82,86,71,37,54,3,0,0,1,AI/ML Engineer,57,18.7,Medium,Git,Machine_Learning
+959,58,83,33,71,66,61,35,37,48,43,3,1,1,0,Data Scientist,58,19.6,Medium,Machine_Learning,SQL
+960,62,64,51,35,78,27,44,55,66,48,0,4,3,2,Backend Developer,77,17.3,Medium,NLP,DSA
+961,5,33,39,91,65,54,53,58,61,58,5,1,0,0,Cloud Engineer,68,18.0,Medium,Deep_Learning,Python
+962,20,12,100,83,25,47,50,80,5,44,1,2,0,0,AI/ML Engineer,39,30.2,Medium,SQL,Machine_Learning
+963,37,30,76,57,56,100,100,49,25,88,2,2,2,0,AI/ML Engineer,72,19.6,Medium,DSA,Machine_Learning
+964,100,65,94,78,100,40,94,37,63,72,1,3,4,0,Data Scientist,74,8.5,Low,Python,Cloud
+965,38,82,80,65,43,80,36,88,93,82,3,0,1,1,Data Engineer,74,8.6,Low,Statistics,Git
+966,67,31,28,100,62,36,74,28,30,37,3,2,1,0,Backend Developer,67,21.4,Medium,Deep_Learning,Cloud
+967,58,53,32,54,71,46,92,26,36,42,3,2,0,0,NLP Engineer,52,20.2,Medium,Git,Cloud
+968,42,48,99,53,34,61,42,57,28,73,1,3,2,2,Cloud Engineer,74,14.7,Low,SQL,Git
+969,100,65,84,39,56,83,19,50,69,53,1,3,0,0,Cloud Engineer,64,13.3,Low,Python,Git
+970,52,62,59,47,92,63,46,37,53,33,4,0,0,1,AI/ML Engineer,64,21.3,Medium,NLP,Cloud
+971,50,69,54,19,21,91,28,40,76,28,0,0,1,0,NLP Engineer,46,26.1,Medium,DSA,NLP
+972,71,62,79,59,74,82,79,20,45,82,4,5,5,0,AI/ML Engineer,83,12.8,Low,DSA,Cloud
+973,82,50,54,73,18,65,93,57,11,53,4,1,2,1,Data Analyst,71,9.2,Low,Git,Statistics
+974,5,88,52,45,100,72,61,86,62,43,4,2,1,1,Data Analyst,76,10.5,Low,NLP,Python
+975,18,41,5,73,68,44,83,53,100,27,4,3,5,1,NLP Engineer,67,23.9,Medium,Statistics,Python
+976,82,41,71,75,54,24,64,65,50,98,2,1,1,1,Data Analyst,68,4.9,Low,Communication,DSA
+977,60,40,50,66,70,58,49,58,38,50,2,1,3,0,Backend Developer,67,14.7,Low,NLP,Git
+978,33,55,75,5,64,47,87,70,45,91,2,1,2,1,Backend Developer,77,10.0,Low,Communication,Python
+979,74,45,60,74,98,55,59,56,50,24,2,3,4,0,NLP Engineer,76,10.2,Low,NLP,Communication
+980,46,5,55,13,27,24,31,42,44,70,1,3,1,1,AI/ML Engineer,48,37.3,High,Communication,Machine_Learning
+981,73,21,71,61,78,5,34,32,29,65,2,3,0,1,Computer Vision Engineer,64,25.0,Medium,NLP,DSA
+982,54,46,52,51,59,54,73,83,36,48,3,0,1,0,Data Scientist,64,19.5,Medium,Cloud,Machine_Learning
+983,24,42,44,24,24,7,62,77,55,46,0,1,3,2,NLP Engineer,63,29.2,Medium,Cloud,NLP
+984,51,36,45,68,63,75,77,22,84,67,1,1,1,0,Cloud Engineer,68,11.3,Low,Statistics,Cloud
+985,40,67,45,43,40,75,59,88,62,90,5,1,1,3,Computer Vision Engineer,76,11.1,Low,Communication,Deep_Learning
+986,59,43,85,61,46,61,81,65,97,80,2,4,1,3,NLP Engineer,81,10.6,Low,Statistics,NLP
+987,47,94,74,45,85,61,93,53,48,78,4,2,0,2,Data Engineer,72,9.2,Low,Machine_Learning,Cloud
+988,28,38,88,78,45,35,99,34,62,63,3,2,0,1,NLP Engineer,64,19.2,Medium,Git,Python
+989,87,39,37,13,55,75,39,21,98,39,2,1,0,1,AI/ML Engineer,51,27.2,Medium,Statistics,Deep_Learning
+990,48,44,62,31,51,87,65,58,60,46,2,0,2,2,Backend Developer,82,10.6,Low,DSA,Communication
+991,42,45,88,30,73,69,50,73,65,26,2,2,2,0,Backend Developer,69,13.0,Low,SQL,Communication
+992,45,56,41,37,31,72,26,37,57,89,3,3,0,0,Data Analyst,69,11.9,Low,Communication,SQL
+993,59,54,95,70,77,67,59,65,9,49,2,1,1,2,Data Scientist,76,14.3,Low,SQL,Statistics
+994,12,21,49,65,61,40,43,36,77,12,4,4,3,2,AI/ML Engineer,62,33.1,Medium,Statistics,Python
+995,60,67,51,53,23,65,56,58,100,50,1,1,3,1,Cloud Engineer,79,10.5,Low,Statistics,Cloud
+996,67,28,78,64,68,94,41,52,63,33,5,1,0,0,Computer Vision Engineer,65,16.5,Medium,DSA,Machine_Learning
+997,66,27,24,33,37,72,25,63,74,88,0,0,3,0,Backend Developer,72,14.3,Low,Communication,Git
+998,86,70,58,90,90,35,83,67,61,50,5,1,3,1,Data Analyst,82,3.7,Low,Deep_Learning,SQL
+999,57,80,15,63,70,54,54,83,21,74,3,0,3,2,Computer Vision Engineer,74,14.1,Low,Cloud,SQL
+1000,66,50,59,63,89,27,82,22,44,55,2,0,5,2,Cloud Engineer,74,15.5,Medium,NLP,Cloud
