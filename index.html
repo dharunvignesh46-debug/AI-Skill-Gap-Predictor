@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Skill Scan — Readiness Diagnostic</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+<div class="scanlines" aria-hidden="true"></div>
+
+<header class="topbar">
+  <div class="brand">
+    <span class="brand-mark">◈</span>
+    <span class="brand-name">SKILL&nbsp;SCAN</span>
+  </div>
+  <div class="topbar-status">
+    <span class="status-dot" id="apiStatusDot"></span>
+    <span id="apiStatusText" class="mono">connecting…</span>
+  </div>
+</header>
+
+<main class="layout">
+
+  <!-- LEFT: INPUT CONSOLE -->
+  <section class="console" aria-label="Skill input console">
+    <div class="console-head">
+      <h1>Run a readiness scan</h1>
+      <p class="sub">Set your levels, pick a target role, and scan. Every reading is compared against real graduates who landed that role.</p>
+    </div>
+
+    <div class="field-row">
+      <label for="targetRole">Target role</label>
+      <select id="targetRole" class="select"></select>
+    </div>
+
+    <div class="field-row grid-2">
+      <div>
+        <label for="projects">Projects</label>
+        <input type="number" id="projects" min="0" max="20" value="3" class="num" />
+      </div>
+      <div>
+        <label for="certifications">Certifications</label>
+        <input type="number" id="certifications" min="0" max="20" value="2" class="num" />
+      </div>
+      <div>
+        <label for="experience">Years experience</label>
+        <input type="number" id="experience" min="0" max="30" value="1" class="num" />
+      </div>
+      <div>
+        <label for="internships">Internships</label>
+        <input type="number" id="internships" min="0" max="10" value="1" class="num" />
+      </div>
+    </div>
+
+    <div class="meters" id="meters"><!-- skill meters injected by JS --></div>
+
+    <button id="scanBtn" class="scan-btn">
+      <span class="scan-btn-label">Run scan</span>
+      <span class="scan-btn-icon">⟶</span>
+    </button>
+    <p class="meta-note mono" id="modelMeta"></p>
+  </section>
+
+  <!-- RIGHT: RESULTS READOUT -->
+  <section class="readout" aria-label="Scan results" id="readout">
+
+    <div class="readout-empty" id="readoutEmpty">
+      <div class="empty-glyph">◈</div>
+      <p>Awaiting first scan.<br>Set your levels on the left and press <strong>Run scan</strong>.</p>
+    </div>
+
+    <div class="readout-content" id="readoutContent" hidden>
+
+      <div class="readout-grid">
+        <!-- Gauge -->
+        <div class="panel gauge-panel">
+          <div class="panel-label">JOB READINESS</div>
+          <svg viewBox="0 0 200 120" class="gauge-svg" id="gaugeSvg">
+            <path d="M 20 110 A 80 80 0 0 1 180 110" class="gauge-track" />
+            <path d="M 20 110 A 80 80 0 0 1 180 110" class="gauge-fill" id="gaugeFill" />
+          </svg>
+          <div class="gauge-value mono" id="gaugeValue">--</div>
+          <div class="gauge-sub" id="gaugeSub">/ 100</div>
+        </div>
+
+        <!-- Gap level badge -->
+        <div class="panel level-panel">
+          <div class="panel-label">SKILL GAP LEVEL</div>
+          <div class="level-badge" id="levelBadge">—</div>
+          <div class="level-confidence mono" id="levelConfidence"></div>
+        </div>
+
+        <!-- Strongest skill -->
+        <div class="panel strongest-panel">
+          <div class="panel-label">STRONGEST READING</div>
+          <div class="strongest-value" id="strongestValue">—</div>
+        </div>
+      </div>
+
+      <!-- Radar -->
+      <div class="panel radar-panel">
+        <div class="panel-label">PROFILE VS. ROLE BENCHMARK</div>
+        <canvas id="radarChart" height="260"></canvas>
+        <div class="legend">
+          <span><i class="dot dot-you"></i> You</span>
+          <span><i class="dot dot-benchmark"></i> Role average</span>
+        </div>
+      </div>
+
+      <!-- Recommendations -->
+      <div class="panel rec-panel">
+        <div class="panel-label">PRIORITY GAPS</div>
+        <ol class="rec-list" id="recList"></ol>
+      </div>
+
+    </div>
+  </section>
+
+</main>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
